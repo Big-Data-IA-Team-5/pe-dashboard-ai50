@@ -1,10 +1,502 @@
 [
   {
-    "company_name": "PLACEHOLDER AI 1",
-    "website": "https://example.com",
-    "linkedin": "https://www.linkedin.com/company/example/",
-    "hq_city": null,
-    "hq_country": null,
-    "category": null
+    "rank": 1,
+    "company_name": "World LabsHQ: SAN FRANCISCOCEO: FEI-FEI LIFUNDING: $291.5 MILFOUNDED: 2024World Labs founder and CEO Fei-Fei Li has AI bona fides in spades: A pioneer in computer vision, the former head of AI for Google Cloud (and AI advisor to California Governor Gavin Newsom) is known in the industry as \u201cthe Godmother of AI.\u201d Her latest venture, which she founded while working at Stanford\u2019s Institute for Human-Centered AI, develops AI models that analyze the physical world and generate artificial environments for people to roam and explore as in a video game. It could be useful for things like creating theme park attractions or flight training simulations, and Li has a murderers\u2019 row of Silicon Valley investors backing her, including Andreessen Horowitz, Marc Benioff and Reid Hoffman.View Profile",
+    "company_id": "world-labs",
+    "website": "https://worldlabs.ai",
+    "category": "AI Models",
+    "hq_city": "",
+    "hq_country": "USA",
+    "description": "World Labs founder and CEO Fei-Fei Li has AI bona fides in spades: A pioneer in computer vision, the former head of AI for Google Cloud (and AI advisor to California Governor Gavin Newsom) is known in"
+  },
+  {
+    "rank": 2,
+    "company_name": "AbridgeAI notetaker for doctors$458 M2018San FranciscoUnited States",
+    "company_id": "abridge",
+    "website": "https://abridge.com",
+    "category": "Healthcare AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: AbridgeAI notetaker for doctors$458 M2018San FranciscoUnited States"
+  },
+  {
+    "rank": 3,
+    "company_name": "AnthropicAI model developer$17 B2020San FranciscoUnited States",
+    "company_id": "anthropic",
+    "website": "https://anthropic.com",
+    "category": "AI Models",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: AnthropicAI model developer$17 B2020San FranciscoUnited States"
+  },
+  {
+    "rank": 4,
+    "company_name": "AnysphereAI coding tools$176 M2022San FranciscoUnited States",
+    "company_id": "anysphere",
+    "website": "https://cursor.com",
+    "category": "Developer Tools",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: AnysphereAI coding tools$176 M2022San FranciscoUnited States"
+  },
+  {
+    "rank": 5,
+    "company_name": "BasetenAI app deployment software$135 M2019San FranciscoUnited States",
+    "company_id": "baseten",
+    "website": "https://baseten.co",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: BasetenAI app deployment software$135 M2019San FranciscoUnited States"
+  },
+  {
+    "rank": 6,
+    "company_name": "CaptionsVideo editor$100 M2021New YorkUnited States",
+    "company_id": "captions",
+    "website": "https://captions.ai",
+    "category": "Generative Media",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: CaptionsVideo editor$100 M2021New YorkUnited States"
+  },
+  {
+    "rank": 7,
+    "company_name": "ClayAI go-to-market tools$104 M2017New YorkUnited States",
+    "company_id": "clay",
+    "website": "https://clay.com",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: ClayAI go-to-market tools$104 M2017New YorkUnited States"
+  },
+  {
+    "rank": 8,
+    "company_name": "Coactive AIData labeling software$44 M2021San JoseUnited States",
+    "company_id": "coactive-ai",
+    "website": "https://coactive.ai",
+    "category": "Data Infrastructure",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Coactive AIData labeling software$44 M2021San JoseUnited States"
+  },
+  {
+    "rank": 9,
+    "company_name": "CohereAI model developer$1 B2019TorontoCanada",
+    "company_id": "cohere",
+    "website": "https://cohere.com",
+    "category": "AI Models",
+    "hq_city": "",
+    "hq_country": "Canada",
+    "description": "AI company: CohereAI model developer$1 B2019TorontoCanada"
+  },
+  {
+    "rank": 10,
+    "company_name": "CrusoeAI infrastructure$1.6 B2018San FranciscoUnited States",
+    "company_id": "crusoe",
+    "website": "https://crusoeenergy.com",
+    "category": "Data Infrastructure",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: CrusoeAI infrastructure$1.6 B2018San FranciscoUnited States"
+  },
+  {
+    "rank": 11,
+    "company_name": "DatabricksData storage and analytics$19 B2013San FranciscoUnited States",
+    "company_id": "databricks",
+    "website": "https://databricks.com",
+    "category": "Data Infrastructure",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: DatabricksData storage and analytics$19 B2013San FranciscoUnited States"
+  },
+  {
+    "rank": 12,
+    "company_name": "DecagonAI agents for customer service$100 M2023San FranciscoUnited States",
+    "company_id": "decagon",
+    "website": "https://decagon.ai",
+    "category": "Customer Service",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: DecagonAI agents for customer service$100 M2023San FranciscoUnited States"
+  },
+  {
+    "rank": 13,
+    "company_name": "DeepLLanguage translation service$420 M2017CologneGermany",
+    "company_id": "deepl",
+    "website": "https://www.deepl.com",
+    "category": "Customer Service",
+    "hq_city": "",
+    "hq_country": "Germany",
+    "description": "AI company: DeepLLanguage translation service$420 M2017CologneGermany"
+  },
+  {
+    "rank": 14,
+    "company_name": "ElevenLabsVoice generation software$281 M2022LondonUnited Kingdom",
+    "company_id": "elevenlabs",
+    "website": "https://elevenlabs.io",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United Kingdom",
+    "description": "AI company: ElevenLabsVoice generation software$281 M2022LondonUnited Kingdom"
+  },
+  {
+    "rank": 15,
+    "company_name": "Figure AIHumanoid robots$750 M2022San JoseUnited States",
+    "company_id": "figure-ai",
+    "website": "https://figure.ai",
+    "category": "Robotics",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Figure AIHumanoid robots$750 M2022San JoseUnited States"
+  },
+  {
+    "rank": 16,
+    "company_name": "Fireworks AIAI app development software$77 M2022Redwood CityUnited States",
+    "company_id": "fireworks-ai",
+    "website": "https://fireworks.ai",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Fireworks AIAI app development software$77 M2022Redwood CityUnited States"
+  },
+  {
+    "rank": 17,
+    "company_name": "GleanEnterprise search engine$600 M2019Palo AltoUnited States",
+    "company_id": "glean",
+    "website": "https://glean.com",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: GleanEnterprise search engine$600 M2019Palo AltoUnited States"
+  },
+  {
+    "rank": 18,
+    "company_name": "HarveyLegal automation software$500 M2022San FranciscoUnited States",
+    "company_id": "harvey",
+    "website": "https://harvey.ai",
+    "category": "Legal Tech",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: HarveyLegal automation software$500 M2022San FranciscoUnited States"
+  },
+  {
+    "rank": 19,
+    "company_name": "HebbiaGeneral purpose AI for finance and legal$160 M2020New YorkUnited States",
+    "company_id": "hebbia",
+    "website": "https://hebbia.ai",
+    "category": "Legal Tech",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: HebbiaGeneral purpose AI for finance and legal$160 M2020New YorkUnited States"
+  },
+  {
+    "rank": 20,
+    "company_name": "Hugging FaceOpen-source library for AI models$395 M2016New YorkUnited States",
+    "company_id": "hugging-face",
+    "website": "https://huggingface.co",
+    "category": "AI Models",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Hugging FaceOpen-source library for AI models$395 M2016New YorkUnited States"
+  },
+  {
+    "rank": 21,
+    "company_name": "LambdaAI cloud provider$863 M2012San JoseUnited States",
+    "company_id": "lambda",
+    "website": "https://lambdalabs.com",
+    "category": "Data Infrastructure",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: LambdaAI cloud provider$863 M2012San JoseUnited States"
+  },
+  {
+    "rank": 22,
+    "company_name": "LangChainAI app development tools$35 M2023San FranciscoUnited States",
+    "company_id": "langchain",
+    "website": "https://langchain.com",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: LangChainAI app development tools$35 M2023San FranciscoUnited States"
+  },
+  {
+    "rank": 23,
+    "company_name": "LuminanceEnterprise contract automation$165 M2015CambridgeUnited Kingdom",
+    "company_id": "luminance",
+    "website": "https://luminance.com",
+    "category": "Legal Tech",
+    "hq_city": "",
+    "hq_country": "United Kingdom",
+    "description": "AI company: LuminanceEnterprise contract automation$165 M2015CambridgeUnited Kingdom"
+  },
+  {
+    "rank": 24,
+    "company_name": "MercorAI-powered hiring platform$135 M2023San FranciscoUnited States",
+    "company_id": "mercor",
+    "website": "https://mercor.com",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: MercorAI-powered hiring platform$135 M2023San FranciscoUnited States"
+  },
+  {
+    "rank": 25,
+    "company_name": "MidjourneyImage generation service$0 M2021San FranciscoUnited States",
+    "company_id": "midjourney",
+    "website": "https://midjourney.com",
+    "category": "Generative Media",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: MidjourneyImage generation service$0 M2021San FranciscoUnited States"
+  },
+  {
+    "rank": 26,
+    "company_name": "Mistral AIOpen source AI model developer$1.1 B2023ParisFrance",
+    "company_id": "mistral-ai",
+    "website": "https://mistral.ai",
+    "category": "AI Models",
+    "hq_city": "",
+    "hq_country": "France",
+    "description": "AI company: Mistral AIOpen source AI model developer$1.1 B2023ParisFrance"
+  },
+  {
+    "rank": 27,
+    "company_name": "NotionProductivity software$330 M2013San FranciscoUnited States",
+    "company_id": "notion",
+    "website": "https://notion.so",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: NotionProductivity software$330 M2013San FranciscoUnited States"
+  },
+  {
+    "rank": 28,
+    "company_name": "OpenAIAI model developer$63.92 B2015San FranciscoUnited States",
+    "company_id": "openai",
+    "website": "https://openai.com",
+    "category": "AI Models",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: OpenAIAI model developer$63.92 B2015San FranciscoUnited States"
+  },
+  {
+    "rank": 29,
+    "company_name": "OpenEvidenceChatGPT for doctors$100 M2022CambridgeUnited States",
+    "company_id": "openevidence",
+    "website": "https://openevidence.com",
+    "category": "AI Models",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: OpenEvidenceChatGPT for doctors$100 M2022CambridgeUnited States"
+  },
+  {
+    "rank": 30,
+    "company_name": "Perplexity AIAI search engine$900 M2022San FranciscoUnited States",
+    "company_id": "perplexity-ai",
+    "website": "https://perplexity.ai",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Perplexity AIAI search engine$900 M2022San FranciscoUnited States"
+  },
+  {
+    "rank": 31,
+    "company_name": "PhotoroomPhoto editing app$64 M2019ParisFrance",
+    "company_id": "photoroom",
+    "website": "https://photoroom.com",
+    "category": "Generative Media",
+    "hq_city": "",
+    "hq_country": "France",
+    "description": "AI company: PhotoroomPhoto editing app$64 M2019ParisFrance"
+  },
+  {
+    "rank": 32,
+    "company_name": "PikaVideo generation service$135 M2023Palo AltoUnited States",
+    "company_id": "pika",
+    "website": "https://pika.art",
+    "category": "Generative Media",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: PikaVideo generation service$135 M2023Palo AltoUnited States"
+  },
+  {
+    "rank": 33,
+    "company_name": "RunwayVideo and image editing software$545 M2018New YorkUnited States",
+    "company_id": "runway",
+    "website": "https://runwayml.com",
+    "category": "Generative Media",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: RunwayVideo and image editing software$545 M2018New YorkUnited States"
+  },
+  {
+    "rank": 34,
+    "company_name": "Sakana AIAI models for science and research$244 M2023TokyoJapan",
+    "company_id": "sakana-ai",
+    "website": "https://sakana.ai",
+    "category": "AI Models",
+    "hq_city": "",
+    "hq_country": "Japan",
+    "description": "AI company: Sakana AIAI models for science and research$244 M2023TokyoJapan"
+  },
+  {
+    "rank": 35,
+    "company_name": "SambaNovaAI chipmaker$1.1 B2017Palo AltoUnited States",
+    "company_id": "sambanova",
+    "website": "https://sambanova.ai",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: SambaNovaAI chipmaker$1.1 B2017Palo AltoUnited States"
+  },
+  {
+    "rank": 36,
+    "company_name": "Scale AIData labeling and AI infrastructure$1.6 B2016San FranciscoUnited States",
+    "company_id": "scale-ai",
+    "website": "https://scale.com",
+    "category": "Data Infrastructure",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Scale AIData labeling and AI infrastructure$1.6 B2016San FranciscoUnited States"
+  },
+  {
+    "rank": 37,
+    "company_name": "SierraCustomer service software$285 M2023San FranciscoUnited States",
+    "company_id": "sierra",
+    "website": "https://sierra.ai",
+    "category": "Customer Service",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: SierraCustomer service software$285 M2023San FranciscoUnited States"
+  },
+  {
+    "rank": 38,
+    "company_name": "Skild AIAI systems for robotics$320 M2023Pittsburgh United States",
+    "company_id": "skild-ai",
+    "website": "https://skild.ai",
+    "category": "Robotics",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Skild AIAI systems for robotics$320 M2023Pittsburgh United States"
+  },
+  {
+    "rank": 39,
+    "company_name": "Snorkel AIEnterprise data labelling$135 M2019Redwood CityUnited States",
+    "company_id": "snorkel-ai",
+    "website": "https://snorkel.ai",
+    "category": "Data Infrastructure",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Snorkel AIEnterprise data labelling$135 M2019Redwood CityUnited States"
+  },
+  {
+    "rank": 40,
+    "company_name": "SpeakAI language tutor$162 M2016San FranciscoUnited States",
+    "company_id": "speak",
+    "website": "https://speak.com",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: SpeakAI language tutor$162 M2016San FranciscoUnited States"
+  },
+  {
+    "rank": 41,
+    "company_name": "StackBlitzWeb and mobile app development$106 M2017San FranciscoUnited States",
+    "company_id": "stackblitz",
+    "website": "https://stackblitz.com",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: StackBlitzWeb and mobile app development$106 M2017San FranciscoUnited States"
+  },
+  {
+    "rank": 42,
+    "company_name": "SunoMusic and sound generation$125 M2022CambridgeUnited States",
+    "company_id": "suno",
+    "website": "https://suno.ai",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: SunoMusic and sound generation$125 M2022CambridgeUnited States"
+  },
+  {
+    "rank": 43,
+    "company_name": "SynthesiaAI avatar and video generator$330 M2017LondonUnited Kingdom",
+    "company_id": "synthesia",
+    "website": "https://synthesia.io",
+    "category": "Generative Media",
+    "hq_city": "",
+    "hq_country": "United Kingdom",
+    "description": "AI company: SynthesiaAI avatar and video generator$330 M2017LondonUnited Kingdom"
+  },
+  {
+    "rank": 44,
+    "company_name": "Thinking Machine LabsAI research company$0 M2024San FranciscoUnited States",
+    "company_id": "thinking-machine-labs",
+    "website": "https://thinkmachine.ai",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Thinking Machine LabsAI research company$0 M2024San FranciscoUnited States"
+  },
+  {
+    "rank": 45,
+    "company_name": "Together AIAI cloud provider$534 M2022San FranciscoUnited States",
+    "company_id": "together-ai",
+    "website": "https://together.ai",
+    "category": "Data Infrastructure",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Together AIAI cloud provider$534 M2022San FranciscoUnited States"
+  },
+  {
+    "rank": 46,
+    "company_name": "Vannevar LabsDefense intelligence software$92 M2019Palo AltoUnited States",
+    "company_id": "vannevar-labs",
+    "website": "https://vannevarlabs.com",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: Vannevar LabsDefense intelligence software$92 M2019Palo AltoUnited States"
+  },
+  {
+    "rank": 47,
+    "company_name": "VAST DataAI data infrastructure software$381 M2016New YorkUnited States",
+    "company_id": "vast-data",
+    "website": "https://vastdata.com",
+    "category": "Data Infrastructure",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: VAST DataAI data infrastructure software$381 M2016New YorkUnited States"
+  },
+  {
+    "rank": 48,
+    "company_name": "WindsurfAI-powered coding tool$243 M2021Mountain ViewUnited States",
+    "company_id": "windsurf",
+    "website": "https://codeium.com",
+    "category": "Developer Tools",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: WindsurfAI-powered coding tool$243 M2021Mountain ViewUnited States"
+  },
+  {
+    "rank": 49,
+    "company_name": "WriterEnterprise AI software$326 M2020San FranciscoUnited States",
+    "company_id": "writer",
+    "website": "https://writer.com",
+    "category": "Enterprise AI",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: WriterEnterprise AI software$326 M2020San FranciscoUnited States"
+  },
+  {
+    "rank": 50,
+    "company_name": "XAIAI model developer$12.13 B2023Palo AltoUnited States",
+    "company_id": "xai",
+    "website": "https://x.ai",
+    "category": "AI Models",
+    "hq_city": "",
+    "hq_country": "United States",
+    "description": "AI company: XAIAI model developer$12.13 B2023Palo AltoUnited States"
   }
 ]

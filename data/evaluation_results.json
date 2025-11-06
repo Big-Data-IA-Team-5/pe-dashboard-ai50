@@ -1,0 +1,1583 @@
+{
+  "evaluation_date": "2025-11-05T15:06:55.714272",
+  "total_evaluated": 48,
+  "rag_wins": 38,
+  "structured_wins": 10,
+  "avg_rag_score": 7.73,
+  "avg_structured_score": 7.98,
+  "score_difference": 0.25,
+  "results": [
+    {
+      "company_name": "abridge",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 1,
+        "readability": 0,
+        "total": 7
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "structured",
+      "difference": 1,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "anthropic",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "anysphere",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "baseten",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "captions",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "clay",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 1,
+        "readability": 0,
+        "total": 7
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "structured",
+      "difference": 1,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "coactive-ai",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "cohere",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "crusoe",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "databricks",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 1,
+        "readability": 0,
+        "total": 7
+      },
+      "winner": "rag",
+      "difference": 1,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking"
+      ]
+    },
+    {
+      "company_name": "decagon",
+      "rag": {
+        "factual": 2,
+        "schema": 0,
+        "provenance": 2,
+        "hallucination": 1,
+        "readability": 0,
+        "total": 5
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "structured",
+      "difference": 3,
+      "rag_strengths": [
+        "factual accuracy",
+        "provenance tracking"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "deepl",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 1,
+        "readability": 0,
+        "total": 7
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "structured",
+      "difference": 1,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "elevenlabs",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 1,
+        "readability": 0,
+        "total": 7
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "structured",
+      "difference": 1,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "figure-ai",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "fireworks-ai",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "glean",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "harvey",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "hebbia",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "hugging-face",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "lambda",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "langchain",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "luminance",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "mercor",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 1,
+        "readability": 0,
+        "total": 7
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "structured",
+      "difference": 1,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "midjourney",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "mistral-ai",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "notion",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "openai",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "openevidence",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "perplexity-ai",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "photoroom",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "pika",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "runway",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "sakana-ai",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "sierra",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "skild-ai",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "snorkel-ai",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "speak",
+      "rag": {
+        "factual": 2,
+        "schema": 0,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 6
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "structured",
+      "difference": 2,
+      "rag_strengths": [
+        "factual accuracy",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "stackblitz",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 1,
+        "readability": 0,
+        "total": 7
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "structured",
+      "difference": 1,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "suno",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "synthesia",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "thinking-machine-labs",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "together-ai",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 1,
+        "readability": 0,
+        "total": 7
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "structured",
+      "difference": 1,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "vannevar-labs",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "vast-data",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "windsurf",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "world-labs",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "writer",
+      "rag": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
+      "rag_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    },
+    {
+      "company_name": "xai",
+      "rag": {
+        "factual": 2,
+        "schema": 1,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 7
+      },
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 2,
+        "readability": 0,
+        "total": 8
+      },
+      "winner": "structured",
+      "difference": 1,
+      "rag_strengths": [
+        "factual accuracy",
+        "provenance tracking",
+        "hallucination control"
+      ],
+      "structured_strengths": [
+        "factual accuracy",
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
+      ]
+    }
+  ]
+}

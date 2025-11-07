@@ -45,6 +45,7 @@ docker compose up --build
 ## 📊 Current StatusThis starts:
 
 - FastAPI: http://localhost:8000
+- Codelab Link: https://codelabs-preview.appspot.com/?file_id=1q55eKm20EeYkN_g0Q4KdVb7A7g28D87yIkz8lyX2p8M#4
 
 ### Data Coverage- Streamlit: http://localhost:8501
 

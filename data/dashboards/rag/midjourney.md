@@ -1,27 +1,27 @@
-## Company Overview
-Midjourney is an artificial intelligence company providing advanced automation solutions for enterprise customers. The company focuses on building scalable AI infrastructure and developer tools. It is headquartered in an undisclosed location and was founded in an undisclosed year. The company positions itself in the AI space, competing with other firms in the machine learning and enterprise software sectors.
+### ## Company Overview
+Midjourney is a San Francisco, CA–based AI company founded in 2021, operating in the creative technology space. The company specializes in image generation services that leverage artificial intelligence to create high-quality images based on textual descriptions. Midjourney is a self-funded entity, emphasizing its independence from external investors and advertisers, and is supported by a vibrant community of users.
 
-## Business Model and GTM
-Midjourney sells its products primarily to enterprise customers, including Fortune 500 companies. The company offers a pricing model that is not publicly disclosed. Notably, it has launched products such as the Midjourney Enterprise API and Midjourney Studio. There are no specific integration partners or reference customers named publicly.
+### ## Business Model and GTM
+The company sells AI-powered image generation services to artists, graphic designers, marketers, and content creators through a subscription model. Users access the service primarily via a Discord-based interface, allowing for seamless interaction with the AI model. The product offerings include advanced features that cater to varying levels of usage, enhancing creative workflows without requiring extensive graphic design skills.
 
-## Funding & Investor Profile
-Midjourney has raised a total of $120 million in funding. The most recent funding round was a Series B, where the company secured $75 million, led by Sequoia Capital and Andreessen Horowitz. The company is valued at approximately $500 million.
+### ## Funding & Investor Profile
+Midjourney has not raised any external funding, remaining entirely self-funded since its inception. Total raised: $0M. Valuation: Not disclosed.
 
-## Growth Momentum
-The company has experienced significant hiring momentum, with a reported headcount growth of 40% in the past quarter. Currently, Midjourney is hiring for 12 engineering roles, 5 sales positions, and 3 product managers. There are no major events such as partnerships or leadership changes disclosed in the recent period.
+### ## Growth Momentum
+As of the latest data, Midjourney reports approximately 70 headcount, with 7 open roles, including positions for AI Researchers, Product Engineers (Web), and Product Designers. The company is actively hiring, indicating a focus on expanding its engineering capabilities and enhancing its product offerings.
 
-## Visibility & Market Sentiment
-Recent visibility metrics for Midjourney are not disclosed. Therefore, information regarding news mentions, average sentiment, GitHub stars, and Glassdoor ratings is not available. The attention around the company is unclear.
+### ## Visibility & Market Sentiment
+Midjourney has garnered significant attention, with a growing user base and positive sentiment surrounding its image generation capabilities. However, specific metrics such as news mentions, average sentiment scores, or GitHub stars are not disclosed.
 
-## Risks and Challenges
-There are no disclosed risks or challenges such as layoffs, regulatory incidents, executive churn, pricing pressure, or go-to-market concentration risks.
+### ## Risks and Challenges
+- Valuation not disclosed.
+- Competitive pressure from other AI-driven creative tools.
+- Potential ethical implications surrounding AI-generated art.
 
-## Outlook
-Midjourney appears to have a solid foundation with a strong leadership team that includes individuals with significant experience in AI and enterprise software. The company's recent hiring momentum, particularly in engineering roles, suggests a focus on scaling its go-to-market efforts. However, the lack of disclosed visibility metrics makes it difficult to assess market sentiment and potential challenges.
+### ## Outlook
+Midjourney is well-positioned for growth in the creative technology sector, given its innovative approach to AI and strong community support. The active hiring signal suggests a commitment to enhancing its product capabilities, while the increasing sophistication of its image generation technology indicates a solid market fit.
 
-## Disclosure Gaps
-- “Headquarters location not disclosed.”
-- “Founded year not disclosed.”
-- “Pricing model not disclosed.”
-- “No public visibility metrics available.”
-- “No disclosed risks or challenges.”
+### ## Disclosure Gaps
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Specific visibility metrics (news mentions, sentiment scores) not disclosed.

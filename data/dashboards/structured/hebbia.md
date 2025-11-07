@@ -1,48 +1,32 @@
-# Hebbia Investor Diligence Dashboard
-
 ## Company Overview
-- **Legal Name**: Hebbia
-- **HQ**: New York City, United States
-- **Founded**: 2020
-- **Categories**: AI
-- **Competitive Positioning**: Not disclosed.
+Hebbia is a New York City–based AI company founded in 2020, operating in the categories of AI, Finance, Legal, and Consulting. The leadership team includes notable investor Eric Schmidt. Currently, there are no disclosed competitors listed, indicating a potentially unique position in its market segments.
 
 ## Business Model and GTM
-Hebbia sells to firms looking to leverage AI for their unique processes. They operate on a **subscription-based** pricing model. Specific pricing tiers are **not disclosed**. There are no publicly named integration partners or reference customers.
+Hebbia sells its AI platform, Matrix, to a diverse range of target customers in finance and legal sectors. Matrix is designed to tackle complex tasks using proprietary ISD architecture, although specific pricing models and tiers are not disclosed. The company has not listed any integration partners or reference customers, which may suggest a focus on developing its core product before expanding its ecosystem.
 
 ## Funding & Investor Profile
-- **Recent Funding**: 
-  - **Round**: Series B
-  - **Amount**: $130,000,000
-  - **Investors**: a16z
-  - **Valuation**: Not disclosed.
-  
-- **Funding History**: 
-  - Total Raised: Not disclosed.
-  - Last Round: Series B on November 5, 2025.
-  - Last Disclosed Valuation: Not disclosed.
+On November 7, 2025, Hebbia announced a significant funding round, raising $130M led by a16z. This brings the total amount raised to an undisclosed figure, with the last valuation also not disclosed. The absence of a disclosed valuation may indicate that the company is still in the early stages of its financial maturity.
+
+### Funding History
+- **2025-11-07**: Funding Round - $130M, Investors: a16z, Valuation: Not disclosed.
 
 ## Growth Momentum
-As of the latest snapshot on November 5, 2025, specific metrics regarding headcount and job openings are **not disclosed**. There are no reported major positive events such as partnerships or product releases.
+As of November 7, 2025, Hebbia reports a headcount of approximately 150 employees, reflecting a growth rate of around 25%. The company currently has 31 open roles, with a significant emphasis on engineering (14 positions) and sales/business roles (3 positions). Key job titles include Account Executive, Regional Sales Leader, and various AI Strategist roles focused on different sectors such as Credit, Insurance, and Legal. This hiring strategy indicates a robust push towards scaling its operations and enhancing its market presence.
 
 ## Visibility & Market Sentiment
-No visibility metrics are available, including news mentions or sentiment analysis.
+Currently, there are no visibility metrics available, which limits the ability to gauge market sentiment or public perception. The absence of news mentions, GitHub stars, and Glassdoor ratings suggests that Hebbia may still be in the early stages of building its brand recognition and community engagement.
 
 ## Risks and Challenges
-- **Downside Signals**: 
-  - Layoffs: Not disclosed.
-  - Regulatory/Security Incidents: Not disclosed.
-  - Executive Churn: Not disclosed.
-  - Pricing Pressure/Commoditization: Not disclosed.
-  - GTM Concentration Risk: Not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from emerging AI companies in finance and legal sectors.
+- Lack of visibility metrics may hinder investor confidence and market positioning.
 
 ## Outlook
-Hebbia's moat appears to be in its AI platform, which allows firms to teach AI agents their unique processes. However, with no disclosed headcount or hiring focus, it is unclear how they plan to scale their go-to-market efforts. The macro fit for AI solutions remains strong, but specific challenges and growth strategies are **not disclosed**.
+Hebbia is well-positioned for growth in the AI sector, particularly given its innovative product, Matrix, which leverages proprietary technology to address complex tasks. The current hiring signal, with a focus on engineering and sales roles, indicates a strategic move to bolster its go-to-market capabilities. Additionally, the absence of disclosed competitors suggests a unique market opportunity, although the company must remain vigilant against emerging players in the AI landscape.
 
 ## Disclosure Gaps
-- “Total raised not disclosed.”
-- “Last disclosed valuation not disclosed.”
-- “Headcount total and growth percentage not disclosed.”
-- “Job openings count, engineering openings, and sales openings not disclosed.”
-- “No public visibility metrics available.”
-- “No information on executive team members.”
+- Valuation not disclosed.
+- Total amount raised not disclosed.
+- Customer counts not disclosed.
+- Growth metrics not disclosed.
+- Leadership backgrounds lacking detailed information (education, previous affiliations).

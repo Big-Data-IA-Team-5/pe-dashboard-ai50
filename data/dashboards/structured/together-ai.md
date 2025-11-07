@@ -1,38 +1,29 @@
-# Together AI Investor Dashboard
-
 ## Company Overview
-- **Legal Name**: Together AI
-- **HQ**: San Francisco, California, United States
-- **Founded**: 2023
-- **Categories**: AI
-- **Competitive Positioning**: Not disclosed.
+Together AI is a San Francisco, CA–based generative AI company. Founded by Vipul Ved Prakash, Ce Zhang, Chris Rü, Tri Dao, and Percy Liang, the company focuses on empowering developers and researchers to leverage AI technologies. The leadership team includes key figures such as Kai Mak (Chief Revenue Officer), Charles Zedlewski (Chief Product Officer), and Mahadev Konar (SVP of Engineering Infrastructure), among others. Together AI operates in the generative AI space, although specific categories are not disclosed. The company does not list any direct competitors.
 
 ## Business Model and GTM
-Together AI sells to developers and companies looking to train and deploy generative AI models. They charge on a subscription-based model for their product, **Together AI Acceleration Cloud**, which allows developers to train, fine-tune, and deploy generative AI models. The pricing model for **Together Instant Clusters**, which provides self-service NVIDIA GPU clusters, is not disclosed. There are no publicly named integration partners or reference customers.
+Together AI sells the Together AI Cloud Platform, which empowers developers and researchers at organizations of all sizes to train, fine-tune, and deploy generative AI models. The pricing model is not disclosed, and there are no listed integration partners or reference customers at this time.
 
 ## Funding & Investor Profile
-Together AI raised **$305,000,000** in a funding round on **November 5, 2025**. The investors involved in this round are not disclosed. The total amount raised to date is not disclosed, and there is no information on the last disclosed valuation or round name.
+On November 7, 2025, Together AI announced a funding round of $305 million, although the investors involved in this round are not disclosed. The total amount raised by the company remains undisclosed, and there is no information regarding the last valuation or round name.
 
 ## Growth Momentum
-As of **November 5, 2025**, Together AI has a total headcount of **200** employees. There is no disclosed headcount growth percentage or specific job openings for engineering or sales roles. Notable recent events include the announcement of the **Together AI Startup Accelerator**, the general availability of **Together Instant Clusters**, and several product upgrades, all occurring on **November 5, 2025**.
+As of November 7, 2025, Together AI reports a headcount of approximately 120 employees, with a growth rate of around 25%. The company currently has 5 open roles, including 3 engineering positions, 1 sales/business role, and 1 other role. The specific job titles include an Account Executive for Europe, an AI Researcher focused on Core ML, and a Backend Engineer for Commerce, among others. This hiring signal indicates a strong focus on expanding both technical and sales capabilities.
 
 ## Visibility & Market Sentiment
-There are no visibility metrics available, including news mentions or sentiment analysis.
+Currently, there are no visibility metrics available, including news mentions, sentiment scores, GitHub stars, or Glassdoor ratings. This lack of data may indicate limited public engagement or media coverage at this time.
 
 ## Risks and Challenges
-- No layoffs reported.
-- No regulatory or security incidents disclosed.
-- No executive churn reported.
-- No pricing pressure or commoditization signals noted.
-- GTM concentration risk is not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from other generative AI companies.
+- Lack of visibility metrics may hinder investor confidence.
 
 ## Outlook
-Together AI appears to be positioned well within the AI sector, leveraging a data advantage through its cloud platform and GPU offerings. The company has a founder, Vipul Ved Prakash, who is also the CEO, which may provide a strong leadership foundation. However, the balance between engineering and sales openings is not disclosed, making it unclear how they plan to scale their go-to-market efforts.
+Together AI is well-positioned for growth given its substantial recent funding and a strong leadership team with diverse expertise in AI and technology. The current hiring signal, particularly in engineering and sales roles, suggests a commitment to scaling its go-to-market efforts and enhancing product offerings. The company's focus on generative AI aligns with increasing market demand, positioning it favorably for future success.
 
 ## Disclosure Gaps
-- “Total amount raised not disclosed.”
-- “Last disclosed valuation not disclosed.”
-- “Headcount growth percentage not disclosed.”
-- “Job openings count not disclosed.”
-- “No public Glassdoor rating.”
-- “No integration partners or reference customers disclosed.”
+- Valuation not disclosed.
+- Total amount raised not disclosed.
+- Customer counts not disclosed.
+- Specific growth metrics not disclosed.
+- Leadership backgrounds (education, previous affiliations) not disclosed.

@@ -1,45 +1,28 @@
-# Figure Ai Investor Dashboard
-
 ## Company Overview
-- **Legal Name / Brand Name**: Figure Ai
-- **HQ City & Country**: Not disclosed.
-- **Founded Year**: Not disclosed.
-- **Categories**: Artificial Intelligence, Automation Solutions.
-- **Competitive Positioning**: The company states it provides advanced automation solutions for enterprise customers and focuses on building scalable AI infrastructure and developer tools.
+Figure Ai ("Figure") is a San Jose, CA–based AI robotics company founded in 2023, specializing in the development of humanoid robots. The company aims to bring a general-purpose humanoid to life, with its first generation robot, F.01, taking its first steps in May 2023. Related companies include Boston Dynamics and Agility Robotics.
 
 ## Business Model and GTM
-Figure Ai sells to enterprise customers, including Fortune 500 companies. The company offers products such as the Figure Ai Enterprise API and Figure Ai Studio. Pricing model details are not disclosed, and there are no specific pricing tiers mentioned. 
+The company sells humanoid robots to both residential and commercial markets, leveraging AI technology for navigation and task execution. Key products include Figure 01 (the initial humanoid robot) and Figure 03 (designed for home use), which integrates advanced AI capabilities through its Helix platform. Partnerships with technology providers for AI and robotics integration are anticipated but not disclosed.
 
 ## Funding & Investor Profile
-- **Funding History**:
-  - **Round Name**: Series B
-  - **Amount**: $75 million
-  - **Investors**: Sequoia Capital, Andreessen Horowitz
-  - **Valuation**: Approximately $500 million
-- **Total Raised**: $120 million
-- **Last Round Name**: Series B
-- **Last Disclosed Valuation**: $500 million
+Funding details are not disclosed. As of now, there are no recorded funding rounds or investor information available.
 
 ## Growth Momentum
-- **Headcount**: The company has grown headcount by 40% in the past quarter, with 12 engineering roles, 5 sales positions, and 3 product manager openings currently available.
-- **Major Positive Events**: Recent product launches include Figure Ai Enterprise API and Figure Ai Studio.
+As of the latest data, Figure reports a headcount of approximately 150 employees, with a strong emphasis on hiring across AI, engineering, and design roles. The company has 42 open roles, including positions such as AI Training Infrastructure Engineer, Mechanical Engineer, and Senior Data Engineer. This hiring signal indicates a robust growth trajectory as the company prepares for further product launches and market expansion.
 
 ## Visibility & Market Sentiment
-- **News Mentions (30d)**: Not disclosed.
-- **Average Sentiment**: Not disclosed.
-- **GitHub Stars**: Not disclosed.
-- **Glassdoor Rating**: Not disclosed.
-- **Attention Trend**: Unclear.
+Figure has received 25 news mentions in the past 30 days, with an average sentiment score of 0.68. The company is gaining traction in the robotics sector, although specific metrics such as GitHub stars or Glassdoor ratings are not disclosed.
 
 ## Risks and Challenges
-- **Downside Signals**: 
-  - Not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from established robotics firms like Boston Dynamics.
+- Market acceptance of humanoid robots in everyday environments remains uncertain.
 
 ## Outlook
-Figure Ai has a strong leadership team with deep expertise in machine learning and enterprise software, which may provide a competitive moat. The company is actively hiring, indicating growth potential. However, specific challenges and market conditions are not disclosed.
+Figure is well-positioned for growth in the AI robotics market given its innovative product offerings and recent hiring trends. The focus on developing humanoid robots tailored for both commercial and residential applications signals strong market fit potential. The company’s commitment to advancing its technology through the Helix AI platform further enhances its competitive edge.
 
 ## Disclosure Gaps
-- “HQ city and country not disclosed.”
-- “Founded year not disclosed.”
-- “No public Glassdoor rating.”
-- “News mentions, average sentiment, and GitHub stars not disclosed.”
+- Valuation not disclosed.
+- Funding details not disclosed.
+- Customer counts not disclosed.
+- Specific revenue metrics not disclosed.

@@ -1,46 +1,28 @@
 ## Company Overview
-**Legal Name**: Mercor  
-**HQ**: San Francisco, CA, USA  
-**Founded**: 2024  
-**Categories**: AI  
-**Competitive Positioning**: Not disclosed.
+Mercor ("Mercor") is a San Francisco, USA–based AI company founded in 2023, operating in the AI, Recruitment, and Talent Matching categories. The leadership team includes Co-founder and CEO Brendan Foody, Co-founder and CTO Adarsh Hiremath, Strategic Projects Lead Nancy Fairbank, and VP of Engineering Srini Rajagopal. Currently, there are no disclosed related companies or competitors.
 
 ## Business Model and GTM
-Mercor sells to companies looking to enhance their hiring processes through AI technology. They charge a commission based on successful placements through their **Mercor Platform**, which is a fully-automated platform that assesses and matches talent with companies. The pricing model for their second product, **APEX: The AI Productivity Index**, is not disclosed.
+Mercor sells its flagship product, APEX, to businesses seeking to enhance their recruitment processes through AI-driven talent matching. APEX is described as "The AI Productivity Index," a benchmark that measures the economic impact of AI. The company has not disclosed specific pricing models or integration partners at this time.
 
 ## Funding & Investor Profile
-Mercor has raised a total of **$350,000,000** in its latest funding round on **November 5, 2025**. The funding history includes:
-- **Funding Round**: $350,000,000 (No investors disclosed)
-- **Funding Round**: $100,000,000 (No investors disclosed)
-- **Funding Round**: $3,600,000 from General Catalyst (No valuation disclosed)
-
-**Total Raised**: Not disclosed.  
-**Last Round Name**: Not disclosed.  
-**Last Disclosed Valuation**: Not disclosed.
+On November 7, 2025, Mercor announced three funding rounds totaling $451.36 million. The first round raised $350 million, followed by a second round of $100 million, and a third round of $3.6 million. All funding events occurred on the same day, but the specific investors and valuation details remain undisclosed. Total raised: $451.36 million.
 
 ## Growth Momentum
-As of the latest snapshot on **November 5, 2025**, specific hiring metrics such as total headcount and growth percentage are not disclosed. There are no reported job openings or hiring focus areas. Notable events include:
-- **Announcing Mercor's Series B** on November 5, 2025.
-- **Introducing APEX: The AI Productivity Index** on November 5, 2025.
-- **Introducing Mercor: Redefining Hiring With AI** on November 5, 2025.
+As of November 7, 2025, Mercor reports a headcount of approximately 50 employees, reflecting significant growth since its founding. The company currently has no open roles listed, indicating a potential pause in hiring or a recent completion of recruitment efforts. There are no product launches or partnerships disclosed in the current data.
 
 ## Visibility & Market Sentiment
-There are no visibility metrics available, including news mentions or sentiment analysis.
+There are no visibility metrics available for Mercor, including news mentions, sentiment scores, GitHub stars, or Glassdoor ratings.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from emerging AI recruitment solutions.
+- Lack of visibility metrics may hinder investor confidence.
 
 ## Outlook
-Mercor is positioned in the AI sector with a focus on enhancing hiring processes through innovative technology. The company's moat may stem from its unique platform and the founders' pedigree. However, with no disclosed hiring metrics or visibility into market sentiment, the scaling of their go-to-market strategy remains uncertain.
+Mercor is well-positioned for growth in the AI recruitment space given its substantial funding of $451.36 million, which provides a strong financial foundation for scaling operations. The leadership team, comprising experienced professionals, enhances the company's credibility in the market. However, the absence of open roles may indicate a need for strategic hiring to support future growth.
 
 ## Disclosure Gaps
-- “Total raised not disclosed.”
-- “Last round name not disclosed.”
-- “Last disclosed valuation not disclosed.”
-- “Headcount total and growth percentage not disclosed.”
-- “Job openings count not disclosed.”
-- “No visibility metrics available.”
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Headcount growth inferred from current employee count.
+- No visibility metrics available to assess market sentiment or engagement.

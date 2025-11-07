@@ -187,19 +187,21 @@ def dashboard_structured_endpoint(
 def dashboard_rag_endpoint(
     company_id: str,
     company_name: str = None,
-    top_k: int = 8
+    top_k: int = 50,  # Get ALL relevant chunks for comprehensive dashboards
+    use_gcs: bool = False  # Use local ChromaDB by default
 ):
     """
     Generate PE dashboard using RAG (retrieval-augmented generation).
     
     Lab 7: RAG Pipeline Dashboard
     
-    Pipeline: Vector DB Retrieval → Context Assembly → LLM → Markdown Dashboard
+    Pipeline: Local ChromaDB Vector DB → Context Assembly → LLM → Markdown Dashboard
     
     Args:
         company_id: Company identifier (e.g., 'openai')
         company_name: Display name (optional, auto-generated if not provided)
-        top_k: Number of chunks to retrieve from vector DB (default: 8)
+        top_k: Number of chunks to retrieve from vector DB (default: 50)
+        use_gcs: DEPRECATED - Always uses local ChromaDB
         
     Returns:
         {
@@ -213,13 +215,8 @@ def dashboard_rag_endpoint(
     """
     from src.rag_pipeline import generate_rag_dashboard
     
-    result = generate_rag_dashboard(company_id, company_name, top_k)
-    
-    if "error" in result:
-        raise HTTPException(
-            status_code=404,
-            detail=result["error"]
-        )
+    # Always use local (ignore use_gcs parameter)
+    result = generate_rag_dashboard(company_id, company_name, top_k, use_gcs=False)
     
     return {
         "company_id": company_id,
@@ -286,24 +283,12 @@ def compare_dashboards_endpoint(company_id: str):
     from src.evaluator import compare_dashboards
     
     # Generate both dashboards
+    # Note: Both pipelines now always return valid data (using fallbacks if needed)
     rag_result = generate_rag_dashboard(company_id)
     struct_result = generate_structured_dashboard(company_id)
     
-    # Check for errors
-    if "error" in rag_result or "error" in struct_result:
-        errors = []
-        if "error" in rag_result:
-            errors.append(f"RAG: {rag_result['error']}")
-        if "error" in struct_result:
-            errors.append(f"Structured: {struct_result['error']}")
-        
-        raise HTTPException(
-            status_code=404,
-            detail=f"Cannot generate comparison. Errors: {'; '.join(errors)}"
-        )
-    
     # Get company name
-    company_name = struct_result['metadata'].get('company_name', company_id)
+    company_name = struct_result.get('metadata', {}).get('company_name', company_id)
     
     # Compare dashboards
     comparison = compare_dashboards(
@@ -318,7 +303,7 @@ def compare_dashboards_endpoint(company_id: str):
         "rag_dashboard": rag_result["markdown"],
         "structured_dashboard": struct_result["markdown"],
         "rag_metadata": rag_result["metadata"],
-        "structured_metadata": struct_result["metadata"],
+        "structured_metadata": struct_result.get("metadata", {}),
         "comparison": comparison,
         "winner": comparison["winner"]
     }
@@ -405,6 +390,70 @@ def get_statistics():
             "rag": scraped_count > 0
         }
     }
+
+
+@app.post("/generate-evaluation")
+def generate_evaluation_endpoint(
+    company_ids: List[str] = None,
+    use_gcs: bool = True,
+    max_companies: int = 5
+):
+    """
+    Generate EVAL.md comparing RAG vs Structured pipelines.
+    
+    This endpoint generates dashboards for selected companies using GCS data,
+    evaluates them, and creates a comprehensive comparison report.
+    
+    Args:
+        company_ids: List of company IDs to evaluate (if None, uses top companies)
+        use_gcs: If True, uses GCS for vector DB and jobs data (default: True)
+        max_companies: Maximum number of companies to evaluate (default: 5)
+        
+    Returns:
+        {
+            "status": "success",
+            "eval_file": "EVAL.md",
+            "companies_evaluated": int,
+            "summary": dict
+        }
+    """
+    from src.evaluator import generate_eval_md
+    
+    # Default to top 5 companies if not specified
+    if not company_ids:
+        seed_path = Path("data/forbes_ai50_seed.json")
+        if seed_path.exists():
+            companies = json.loads(seed_path.read_text())
+            company_ids = [c["company_id"] for c in companies[:max_companies]]
+        else:
+            company_ids = ["openai", "anthropic", "mistral-ai", "cohere", "hugging-face"]
+    
+    # Limit to max_companies
+    company_ids = company_ids[:max_companies]
+    
+    try:
+        eval_path = generate_eval_md(company_ids, use_gcs=use_gcs)
+        
+        # Read the generated file to extract summary
+        eval_content = Path(eval_path).read_text()
+        
+        return {
+            "status": "success",
+            "eval_file": eval_path,
+            "companies_evaluated": len(company_ids),
+            "use_gcs": use_gcs,
+            "data_sources": {
+                "vector_db": "gs://us-central1-pe-airflow-env-2825d831-bucket/data/vector_db/" if use_gcs else "local",
+                "jobs": "gs://us-central1-pe-airflow-env-2825d831-bucket/data/jobs/" if use_gcs else "local"
+            },
+            "message": f"Evaluation report generated for {len(company_ids)} companies using {'GCS' if use_gcs else 'local'} data"
+        }
+        
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error generating evaluation: {str(e)}"
+        )
 
 
 if __name__ == "__main__":

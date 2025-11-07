@@ -1,49 +1,29 @@
-# Coactive AI Investor Dashboard
-
 ## Company Overview
-- **Legal Name**: Coactive AI
-- **Brand Name**: Not disclosed.
-- **Headquarters**: Not disclosed.
-- **Founded Year**: Not disclosed.
-- **Categories**: AI
-- **Competitive Positioning**: Not disclosed.
+Coactive is a company based in an undisclosed location, operating in the AI and technology sectors. Founded in an undisclosed year, Coactive focuses on innovative solutions in the realm of video and image content. The leadership team includes Cody Coleman, serving as Chief Revenue Officer, and Mehul Smriti Raje, a Machine Learning Engineer. There are no disclosed competitors or related companies at this time.
 
 ## Business Model and GTM
-Coactive AI sells to users needing advanced video and image content management. They utilize a **subscription-based** pricing model for their product, the **Coactive Multimodal AI Platform**, which enhances content workflows through automated metadata tagging and contextual understanding. There are no publicly disclosed pricing tiers, integration partners, or reference customers.
+Coactive sells advanced AI products aimed at enhancing video and image content discovery, monetization, and personalization. Their product lineup includes Coactive MAP Autumn ’25, which offers powerful new ways to engage with multimedia content; Visual AI Search, Metadata Tagging, and Analytics, now available on Azure; and Smarter Metadata Tagging, designed for the multimodal era. The company has not disclosed specific pricing models or integration partners.
 
 ## Funding & Investor Profile
-The funding history for Coactive AI is as follows:
-- **Latest Funding Event**: Funding Round on November 5, 2025
-- **Amount Raised**: Not disclosed.
-- **Investors**: Not disclosed.
-- **Valuation**: Not disclosed.
-
-From the company record:
-- **Total Raised**: Not disclosed.
-- **Last Round Name**: Not disclosed.
-- **Last Disclosed Valuation**: Not disclosed.
+On November 7, 2025, Coactive announced a funding round, although the amount raised and the valuation remain undisclosed. This marks the only funding event recorded for the company. As of now, the total amount raised and the last disclosed valuation are also not available.
 
 ## Growth Momentum
-As of the latest snapshot on November 5, 2025, there is no disclosed information regarding headcount, headcount growth percentage, or job openings, including engineering and sales openings. There are no major positive events such as partnerships or product releases noted in the provided data.
+As of November 7, 2025, Coactive reports a total headcount of 8 employees, with a breakdown of current open positions indicating a focus on engineering and product roles. The company is actively hiring for 8 positions, including 2 engineering roles (Software Engineer, Machine Learning Engineer), 1 sales role (Sales Manager), and 5 other roles (Product Manager, Data Scientist, Marketing Specialist, Customer Support Representative, AI Researcher). There are no recent product launches or partnerships disclosed.
 
 ## Visibility & Market Sentiment
-There are no visibility metrics available, including news mentions, sentiment analysis, GitHub stars, or Glassdoor ratings.
+Currently, there are no visibility metrics available for Coactive, including news mentions, sentiment scores, GitHub stars, or Glassdoor ratings. This lack of visibility may indicate a need for increased marketing efforts or public engagement.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory/Security Incidents**: Not disclosed.
-- **Executive Churn**: Not disclosed.
-- **Pricing Pressure/Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from undisclosed competitors.
+- Limited visibility in the market may hinder growth.
 
 ## Outlook
-Coactive AI appears to be positioned in the AI space with a focus on video and image analytics. However, with no disclosed headcount or hiring momentum, the ability to scale their go-to-market strategy remains unclear. The lack of visibility metrics and funding information may pose challenges in assessing their market fit and growth potential.
+Coactive is well-positioned for growth in the AI sector, given its innovative product offerings aimed at enhancing multimedia content. The current hiring signal, particularly in engineering roles, suggests a commitment to scaling its technological capabilities. However, the lack of disclosed funding details and market visibility presents challenges that the company must address to strengthen its market position.
 
 ## Disclosure Gaps
-- “Headquarters not disclosed.”
-- “Founded year not disclosed.”
-- “Total raised not disclosed.”
-- “Last round name not disclosed.”
-- “Last disclosed valuation not disclosed.”
-- “No public visibility metrics available.”
-- “No information on headcount or hiring momentum.”
+- Valuation not disclosed.
+- Total raised amount not disclosed.
+- Customer counts not disclosed.
+- Headcount growth metrics not disclosed.
+- Leadership backgrounds and previous affiliations not disclosed.

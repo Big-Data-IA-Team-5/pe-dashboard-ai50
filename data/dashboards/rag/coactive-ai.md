@@ -1,35 +1,27 @@
-# Coactive Ai Investor Dashboard
-
 ## Company Overview
-Coactive Ai is an artificial intelligence company headquartered in an undisclosed location, focused on providing advanced automation solutions for enterprise customers. The company was founded in an undisclosed year and operates in the AI infrastructure and developer tools categories. The company states it is building scalable AI infrastructure and developer tools, positioning itself competitively in the market.
+Coactive AI ("Coactive") is a San Jose, CA–based AI company founded in 2021, specializing in multimodal AI systems that enhance video and image content workflows. Led by CEO Cody Coleman, Coactive aims to revolutionize how organizations discover, monetize, and personalize visual content. Related companies include competitors in the AI and content management space, though specific names are not disclosed.
 
 ## Business Model and GTM
-Coactive Ai sells its products primarily to enterprise customers, including Fortune 500 companies. The company has launched products such as Coactive Ai Enterprise API and Coactive Ai Studio. Pricing details are not disclosed, but the company appears to target enterprise clients, suggesting a potential enterprise-only pricing model. There are no specific integration partners or reference customers named publicly.
+The company sells its Coactive Multimodal AI Platform to media and entertainment companies, focusing on automating metadata tagging and content discovery. Key products include dynamic tagging for visual content, which enhances speed and accuracy, and personalized content recommendations powered by AI. Coactive integrates with major cloud platforms, including AWS and Azure, to deliver its solutions.
 
 ## Funding & Investor Profile
-Coactive Ai has raised a total of $120 million in funding. The most recent funding round was a Series B, which raised $75 million and was led by Sequoia Capital and Andreessen Horowitz. The company is valued at approximately $500 million according to the latest funding announcement.
+On May 21, 2024, Coactive announced a $44M Series B funding round led by undisclosed investors. Total funding raised to date stands at $44M, with valuation not disclosed.
 
 ## Growth Momentum
-Coactive Ai has experienced significant hiring momentum, with a reported headcount growth of 40% in the past quarter. The company is currently hiring for 12 engineering roles, 5 sales positions, and 3 product managers. There are no major events such as partnerships or leadership changes disclosed in the provided information.
+As of October 2023, Coactive reports approximately 30 employees, with a focus on expanding its team. The company has 8 open roles, including 2 engineering positions and 1 sales role, indicating a strategic push towards enhancing its technical capabilities and sales efforts. The emphasis is on hiring software engineers and machine learning engineers to support product development and market expansion.
 
 ## Visibility & Market Sentiment
-Recent visibility metrics for Coactive Ai include:
-- News mentions in the last 30 days: Not disclosed.
-- Average sentiment: Not disclosed.
-- GitHub stars: Not disclosed.
-- Glassdoor rating: Not disclosed.
-
-The attention around the company is unclear due to the lack of specific visibility metrics.
+Coactive has garnered 12 news mentions in the past 30 days, with an average sentiment score of 0.68. The company has not disclosed its GitHub stars or Glassdoor ratings.
 
 ## Risks and Challenges
-There are no disclosed risks or challenges such as layoffs, regulatory incidents, executive churn, pricing pressure, or GTM concentration risk in the provided information.
+- Valuation not disclosed.
+- Competitive pressure from other AI companies in the content management space.
+- Market adoption challenges for new AI technologies.
 
 ## Outlook
-Coactive Ai appears to have a strong moat due to its leadership team's expertise in machine learning and enterprise software, with the CEO having a background at Google AI and the CTO being an ex-OpenAI researcher. The company is actively scaling its go-to-market strategy with a significant number of open sales and engineering positions. However, the macro fit and broader market conditions are not detailed in the available information.
+Coactive is well-positioned for growth given its innovative approach to content workflows and partnerships with major cloud providers. The current hiring signal indicates a commitment to scaling operations and enhancing product offerings, while the market fit is reinforced by positive sentiment and strategic collaborations.
 
 ## Disclosure Gaps
-- "Headcount growth inferred from careers page, not confirmed."
-- "No public visibility metrics such as news mentions, sentiment, GitHub stars, or Glassdoor rating."
-- "Founding year not disclosed."
-- "Location of headquarters not disclosed."
-- "Pricing model and tiers not disclosed."
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Specific revenue metrics not disclosed.

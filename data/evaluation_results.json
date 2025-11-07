@@ -1,11 +1,11 @@
 {
-  "evaluation_date": "2025-11-05T15:06:55.714272",
+  "evaluation_date": "2025-11-07T15:30:37.815755",
   "total_evaluated": 48,
-  "rag_wins": 38,
-  "structured_wins": 10,
-  "avg_rag_score": 7.73,
-  "avg_structured_score": 7.98,
-  "score_difference": 0.25,
+  "rag_wins": 41,
+  "structured_wins": 7,
+  "avg_rag_score": 8.0,
+  "avg_structured_score": 8.1,
+  "score_difference": 0.1,
   "results": [
     {
       "company_name": "abridge",
@@ -13,9 +13,9 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 1,
+        "hallucination": 2,
         "readability": 0,
-        "total": 7
+        "total": 8
       },
       "structured": {
         "factual": 2,
@@ -25,12 +25,13 @@
         "readability": 0,
         "total": 8
       },
-      "winner": "structured",
-      "difference": 1,
+      "winner": "rag",
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
-        "provenance tracking"
+        "provenance tracking",
+        "hallucination control"
       ],
       "structured_strengths": [
         "factual accuracy",
@@ -87,11 +88,11 @@
         "schema": 2,
         "provenance": 2,
         "hallucination": 2,
-        "readability": 0,
-        "total": 8
+        "readability": 1,
+        "total": 9
       },
-      "winner": "rag",
-      "difference": 0,
+      "winner": "structured",
+      "difference": 1,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
@@ -102,7 +103,8 @@
         "factual accuracy",
         "schema adherence",
         "provenance tracking",
-        "hallucination control"
+        "hallucination control",
+        "readability"
       ]
     },
     {
@@ -177,9 +179,9 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 1,
+        "hallucination": 2,
         "readability": 0,
-        "total": 7
+        "total": 8
       },
       "structured": {
         "factual": 2,
@@ -189,12 +191,13 @@
         "readability": 0,
         "total": 8
       },
-      "winner": "structured",
-      "difference": 1,
+      "winner": "rag",
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
-        "provenance tracking"
+        "provenance tracking",
+        "hallucination control"
       ],
       "structured_strengths": [
         "factual accuracy",
@@ -251,11 +254,11 @@
         "schema": 2,
         "provenance": 2,
         "hallucination": 2,
-        "readability": 0,
-        "total": 8
+        "readability": 1,
+        "total": 9
       },
-      "winner": "rag",
-      "difference": 0,
+      "winner": "structured",
+      "difference": 1,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
@@ -266,7 +269,8 @@
         "factual accuracy",
         "schema adherence",
         "provenance tracking",
-        "hallucination control"
+        "hallucination control",
+        "readability"
       ]
     },
     {
@@ -316,12 +320,12 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 1,
+        "hallucination": 2,
         "readability": 0,
-        "total": 7
+        "total": 8
       },
       "winner": "rag",
-      "difference": 1,
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
@@ -331,20 +335,13 @@
       "structured_strengths": [
         "factual accuracy",
         "schema adherence",
-        "provenance tracking"
+        "provenance tracking",
+        "hallucination control"
       ]
     },
     {
       "company_name": "decagon",
       "rag": {
-        "factual": 2,
-        "schema": 0,
-        "provenance": 2,
-        "hallucination": 1,
-        "readability": 0,
-        "total": 5
-      },
-      "structured": {
         "factual": 2,
         "schema": 2,
         "provenance": 2,
@@ -352,17 +349,27 @@
         "readability": 0,
         "total": 8
       },
-      "winner": "structured",
-      "difference": 3,
+      "structured": {
+        "factual": 2,
+        "schema": 2,
+        "provenance": 2,
+        "hallucination": 1,
+        "readability": 1,
+        "total": 8
+      },
+      "winner": "rag",
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
-        "provenance tracking"
+        "schema adherence",
+        "provenance tracking",
+        "hallucination control"
       ],
       "structured_strengths": [
         "factual accuracy",
         "schema adherence",
         "provenance tracking",
-        "hallucination control"
+        "readability"
       ]
     },
     {
@@ -371,9 +378,9 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 1,
+        "hallucination": 2,
         "readability": 0,
-        "total": 7
+        "total": 8
       },
       "structured": {
         "factual": 2,
@@ -383,12 +390,13 @@
         "readability": 0,
         "total": 8
       },
-      "winner": "structured",
-      "difference": 1,
+      "winner": "rag",
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
-        "provenance tracking"
+        "provenance tracking",
+        "hallucination control"
       ],
       "structured_strengths": [
         "factual accuracy",
@@ -403,9 +411,9 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 1,
+        "hallucination": 2,
         "readability": 0,
-        "total": 7
+        "total": 8
       },
       "structured": {
         "factual": 2,
@@ -415,12 +423,13 @@
         "readability": 0,
         "total": 8
       },
-      "winner": "structured",
-      "difference": 1,
+      "winner": "rag",
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
-        "provenance tracking"
+        "provenance tracking",
+        "hallucination control"
       ],
       "structured_strengths": [
         "factual accuracy",
@@ -510,11 +519,11 @@
         "schema": 2,
         "provenance": 2,
         "hallucination": 2,
-        "readability": 0,
-        "total": 8
+        "readability": 1,
+        "total": 9
       },
-      "winner": "rag",
-      "difference": 0,
+      "winner": "structured",
+      "difference": 1,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
@@ -525,7 +534,8 @@
         "factual accuracy",
         "schema adherence",
         "provenance tracking",
-        "hallucination control"
+        "hallucination control",
+        "readability"
       ]
     },
     {
@@ -543,11 +553,11 @@
         "schema": 2,
         "provenance": 2,
         "hallucination": 2,
-        "readability": 0,
-        "total": 8
+        "readability": 1,
+        "total": 9
       },
-      "winner": "rag",
-      "difference": 0,
+      "winner": "structured",
+      "difference": 1,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
@@ -558,7 +568,8 @@
         "factual accuracy",
         "schema adherence",
         "provenance tracking",
-        "hallucination control"
+        "hallucination control",
+        "readability"
       ]
     },
     {
@@ -732,9 +743,9 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 1,
+        "hallucination": 2,
         "readability": 0,
-        "total": 7
+        "total": 8
       },
       "structured": {
         "factual": 2,
@@ -744,12 +755,13 @@
         "readability": 0,
         "total": 8
       },
-      "winner": "structured",
-      "difference": 1,
+      "winner": "rag",
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
-        "provenance tracking"
+        "provenance tracking",
+        "hallucination control"
       ],
       "structured_strengths": [
         "factual accuracy",
@@ -937,12 +949,12 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 2,
+        "hallucination": 1,
         "readability": 0,
-        "total": 8
+        "total": 7
       },
       "winner": "rag",
-      "difference": 0,
+      "difference": 1,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
@@ -952,8 +964,7 @@
       "structured_strengths": [
         "factual accuracy",
         "schema adherence",
-        "provenance tracking",
-        "hallucination control"
+        "provenance tracking"
       ]
     },
     {
@@ -971,11 +982,11 @@
         "schema": 2,
         "provenance": 2,
         "hallucination": 2,
-        "readability": 0,
-        "total": 8
+        "readability": 1,
+        "total": 9
       },
-      "winner": "rag",
-      "difference": 0,
+      "winner": "structured",
+      "difference": 1,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
@@ -986,7 +997,8 @@
         "factual accuracy",
         "schema adherence",
         "provenance tracking",
-        "hallucination control"
+        "hallucination control",
+        "readability"
       ]
     },
     {
@@ -1069,12 +1081,12 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 2,
+        "hallucination": 1,
         "readability": 0,
-        "total": 8
+        "total": 7
       },
       "winner": "rag",
-      "difference": 0,
+      "difference": 1,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
@@ -1084,8 +1096,7 @@
       "structured_strengths": [
         "factual accuracy",
         "schema adherence",
-        "provenance tracking",
-        "hallucination control"
+        "provenance tracking"
       ]
     },
     {
@@ -1135,8 +1146,8 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 2,
-        "readability": 0,
+        "hallucination": 1,
+        "readability": 1,
         "total": 8
       },
       "winner": "rag",
@@ -1151,7 +1162,7 @@
         "factual accuracy",
         "schema adherence",
         "provenance tracking",
-        "hallucination control"
+        "readability"
       ]
     },
     {
@@ -1191,11 +1202,11 @@
       "company_name": "speak",
       "rag": {
         "factual": 2,
-        "schema": 0,
+        "schema": 2,
         "provenance": 2,
         "hallucination": 2,
         "readability": 0,
-        "total": 6
+        "total": 8
       },
       "structured": {
         "factual": 2,
@@ -1205,10 +1216,11 @@
         "readability": 0,
         "total": 8
       },
-      "winner": "structured",
-      "difference": 2,
+      "winner": "rag",
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
+        "schema adherence",
         "provenance tracking",
         "hallucination control"
       ],
@@ -1225,9 +1237,9 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 1,
+        "hallucination": 2,
         "readability": 0,
-        "total": 7
+        "total": 8
       },
       "structured": {
         "factual": 2,
@@ -1237,12 +1249,13 @@
         "readability": 0,
         "total": 8
       },
-      "winner": "structured",
-      "difference": 1,
+      "winner": "rag",
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
-        "provenance tracking"
+        "provenance tracking",
+        "hallucination control"
       ],
       "structured_strengths": [
         "factual accuracy",
@@ -1356,9 +1369,9 @@
         "factual": 2,
         "schema": 2,
         "provenance": 2,
-        "hallucination": 1,
+        "hallucination": 2,
         "readability": 0,
-        "total": 7
+        "total": 8
       },
       "structured": {
         "factual": 2,
@@ -1368,12 +1381,13 @@
         "readability": 0,
         "total": 8
       },
-      "winner": "structured",
-      "difference": 1,
+      "winner": "rag",
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
-        "provenance tracking"
+        "provenance tracking",
+        "hallucination control"
       ],
       "structured_strengths": [
         "factual accuracy",
@@ -1397,11 +1411,11 @@
         "schema": 2,
         "provenance": 2,
         "hallucination": 2,
-        "readability": 0,
-        "total": 8
+        "readability": 1,
+        "total": 9
       },
-      "winner": "rag",
-      "difference": 0,
+      "winner": "structured",
+      "difference": 1,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
@@ -1412,7 +1426,8 @@
         "factual accuracy",
         "schema adherence",
         "provenance tracking",
-        "hallucination control"
+        "hallucination control",
+        "readability"
       ]
     },
     {
@@ -1430,11 +1445,11 @@
         "schema": 2,
         "provenance": 2,
         "hallucination": 2,
-        "readability": 0,
-        "total": 8
+        "readability": 1,
+        "total": 9
       },
-      "winner": "rag",
-      "difference": 0,
+      "winner": "structured",
+      "difference": 1,
       "rag_strengths": [
         "factual accuracy",
         "schema adherence",
@@ -1445,7 +1460,8 @@
         "factual accuracy",
         "schema adherence",
         "provenance tracking",
-        "hallucination control"
+        "hallucination control",
+        "readability"
       ]
     },
     {
@@ -1551,11 +1567,11 @@
       "company_name": "xai",
       "rag": {
         "factual": 2,
-        "schema": 1,
+        "schema": 2,
         "provenance": 2,
         "hallucination": 2,
         "readability": 0,
-        "total": 7
+        "total": 8
       },
       "structured": {
         "factual": 2,
@@ -1565,10 +1581,11 @@
         "readability": 0,
         "total": 8
       },
-      "winner": "structured",
-      "difference": 1,
+      "winner": "rag",
+      "difference": 0,
       "rag_strengths": [
         "factual accuracy",
+        "schema adherence",
         "provenance tracking",
         "hallucination control"
       ],

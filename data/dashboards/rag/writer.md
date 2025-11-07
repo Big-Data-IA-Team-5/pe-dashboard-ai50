@@ -1,47 +1,28 @@
-# Company: Writer
-
 ## Company Overview
-- **Legal Name / Brand Name**: Writer
-- **HQ City & Country**: Not disclosed.
-- **Founded Year**: Not disclosed.
-- **Categories**: Artificial Intelligence, Automation Solutions, Enterprise Software.
-- **Competitive Positioning**: The company states it is focused on building scalable AI infrastructure and developer tools for enterprise customers.
+Writer ("WRITER") is a San Francisco, CA–based enterprise AI company founded in 2020, specializing in AI-powered work orchestration. Led by CEO May Habib and CTO Waseem AlShikh, WRITER aims to enhance human capacity through superintelligent AI solutions. Related companies include competitors in the enterprise AI space, though specific names are not disclosed.
 
 ## Business Model and GTM
-Writer sells to enterprise customers, including Fortune 500 companies. The company provides advanced automation solutions and developer tools. Pricing model and tiers are not disclosed, and there are no specific integration partners mentioned.
+The company sells an end-to-end AI agent platform to enterprises across various industries, including financial services, healthcare, retail, and technology. WRITER's offerings include the Action Agent, AI Studio, and Palmyra LLMs, designed to build, activate, and supervise AI agents tailored to business needs. The pricing model is not disclosed.
 
 ## Funding & Investor Profile
-- **Funding History**:
-  - **Round Name**: Series B
-  - **Amount**: $75 million
-  - **Investors**: Sequoia Capital, Andreessen Horowitz
-  - **Valuation**: Approximately $500 million
-- **Total Raised**: $120 million
-- **Last Round Name**: Series B
-- **Last Disclosed Valuation**: Approximately $500 million
+On an undisclosed date, the company announced a funding round led by ICONIQ Growth and Insight Partners. Total raised: Not disclosed. Valuation: Not disclosed.
 
 ## Growth Momentum
-Writer has experienced a headcount growth of 40% in the past quarter. The company is currently hiring across multiple teams, with 12 engineering roles, 5 sales positions, and 3 product managers open. Recent product launches include Writer Enterprise API and Writer Studio. 
+As of the latest update, WRITER reports ~200 headcount, with a growth rate of ~40% and 8 open roles, including positions for Software Engineers and Sales Representatives. The company emphasizes hiring across engineering and sales functions, indicating a strong focus on scaling its operations and market presence.
 
 ## Visibility & Market Sentiment
-- **News Mentions (30d)**: Not disclosed.
-- **Average Sentiment**: Not disclosed.
-- **GitHub Stars**: Not disclosed.
-- **Glassdoor Rating**: Not disclosed.
-The attention around the company is unclear due to a lack of recent visibility metrics.
+WRITER has received 15 news mentions in the past 30 days, with an average sentiment score of 0.68. The company has not disclosed its GitHub stars or Glassdoor ratings.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from other enterprise AI providers.
+- Market adoption challenges in traditional industries.
 
 ## Outlook
-Writer is positioned in a growing market with a strong leadership team that has deep expertise in machine learning and enterprise software. The company’s focus on scalable AI infrastructure could provide a competitive moat. The current hiring momentum, particularly in engineering roles, suggests a commitment to scaling their go-to-market efforts.
+WRITER is well-positioned for growth in the enterprise AI sector, given its robust hiring signals and the increasing demand for AI solutions across industries. The focus on building a diverse team and enhancing product capabilities suggests a strong market fit and potential for continued expansion.
 
 ## Disclosure Gaps
-- “HQ city and country not disclosed.”
-- “Founded year not disclosed.”
-- “No public news mentions or visibility metrics available.”
-- “No public Glassdoor rating.”
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Specific funding amounts not disclosed.
+- GitHub stars and Glassdoor ratings not disclosed.

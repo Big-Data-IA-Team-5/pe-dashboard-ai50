@@ -1,48 +1,27 @@
-# Company: Clay
-
 ## Company Overview
-- **Legal Name / Brand Name**: Clay
-- **HQ City & Country**: Not disclosed.
-- **Founded Year**: Not disclosed.
-- **Categories**: Artificial Intelligence, Automation Solutions, Enterprise Software.
-- **Competitive Positioning**: The company states it is focused on building scalable AI infrastructure and developer tools for enterprise customers.
+Clay ("Clay") is a New York, NY–based data enrichment and go-to-market (GTM) tools company founded in 2021. Led by CEO Varun Anand and CTO Kunal K. Related companies include OpenAI and Anthropic.
 
 ## Business Model and GTM
-Clay sells its products to enterprise customers, including Fortune 500 companies. The company provides advanced automation solutions and developer tools. Pricing model and tiers are not disclosed, and it appears to be enterprise-focused.
+The company sells data enrichment and GTM automation tools to sales and marketing teams with a subscription-based pricing model. Products include Claygent (an AI-driven research agent) and Bulk Enrichment (which allows teams to enrich Salesforce records at scale). Clay integrates with over 150 data providers and popular CRM systems.
 
 ## Funding & Investor Profile
-- **Funding History**:
-  - **Round Name**: Series B
-  - **Amount**: $75 million
-  - **Investors**: Sequoia Capital, Andreessen Horowitz
-  - **Valuation**: Approximately $500 million
-- **Total Raised**: $120 million
-- **Last Round Name**: Series B
-- **Last Disclosed Valuation**: $500 million
+On 2025-08-05, the company announced a $100M Series C led by Sequoia Capital, with a valuation of $3.1B. Prior to this, Clay raised $40M in a Series B round at a $1.25B valuation on 2025-01-22. Total raised: $140M.
 
 ## Growth Momentum
-Clay has grown its headcount by 40% in the past quarter. They are currently hiring across multiple teams, with 12 engineering roles, 5 sales positions, and 3 product managers open. Recent product launches include the Clay Enterprise API and Clay Studio.
+As of 2024-10-31, the company reports ~300 headcount, ~30% growth, and 38 open roles, with emphasis on 14 engineering positions and 6 sales roles. The company has launched several new features, including Bulk Enrichment and Claygent Navigator, to enhance its product offerings.
 
 ## Visibility & Market Sentiment
-- **News Mentions (30d)**: Not disclosed.
-- **Average Sentiment**: Not disclosed.
-- **GitHub Stars**: Not disclosed.
-- **Glassdoor Rating**: Not disclosed.
-The visibility and market sentiment are unclear due to the lack of specific metrics.
+Clay has received 42 news mentions in the last 30 days, with an average sentiment score of 0.75. The company has a 4.9 rating from over 300,000 users and is recognized as a leading tool in the GTM space.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- Valuation not disclosed for earlier funding rounds.
+- Competitive pressure from established players like OpenAI and Anthropic.
+- Rapidly evolving technology landscape may require continuous innovation.
 
 ## Outlook
-Clay appears to have a strong moat due to its focus on scalable AI infrastructure and the expertise of its leadership team, which includes former executives from Google AI and OpenAI. The company is actively hiring, with a notable emphasis on engineering roles, which may support its growth and product development. However, the overall market fit and broader economic conditions are not detailed.
+Clay is well-positioned for growth given its recent funding and product launches. The emphasis on hiring in engineering and sales indicates a strong commitment to scaling operations and enhancing product capabilities. The positive market sentiment reflects strong customer satisfaction and potential for further adoption.
 
 ## Disclosure Gaps
-- “HQ city and country not disclosed.”
-- “Founded year not disclosed.”
-- “No public news mentions or average sentiment available.”
-- “No GitHub stars or Glassdoor rating available.”
-- “No information on layoffs, regulatory incidents, or exec churn.”
+- Valuation not disclosed for earlier funding rounds.
+- Customer counts not disclosed.
+- Headcount growth inferred from careers page.

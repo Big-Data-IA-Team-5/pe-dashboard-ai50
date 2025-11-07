@@ -1,47 +1,29 @@
-# Investor Diligence Dashboard for Speakeasy Labs, Inc.
-
 ## Company Overview
-- **Legal Name**: Speakeasy Labs, Inc.
-- **HQ**: San Francisco, California, United States
-- **Founded**: 2022
-- **Categories**: AI
-- **Competitive Positioning**: Not disclosed.
+Speakeasy Labs, Inc. ("Speak") is a San Francisco–based company specializing in language learning applications. Founded in an undisclosed year, Speak operates within the rapidly growing category of language learning apps. The leadership team includes Connor, the Founder, while the CEO and CTO remain undisclosed. Speak does not have any listed competitors, indicating a potential niche or unique offering in the language learning space.
 
 ## Business Model and GTM
-Speakeasy Labs, Inc. sells to consumers through a subscription-based model for their product, **Speak Tutor**, which offers a 7-day free trial. There are no publicly disclosed pricing tiers. The company has not disclosed any integration partners or reference customers.
+Speak sells its flagship product, Speak Tutor, an AI-powered language learning tutor that provides conversational practice and personalized curriculum to learners. The target customers are individuals seeking to enhance their language skills through innovative technology. While specific pricing models and tiers are not disclosed, the product's AI capabilities suggest a premium offering in the language learning market.
 
 ## Funding & Investor Profile
-- **Funding History**:
-  - **Funding Round**: $78M (November 5, 2025) - Investors: Accel, OpenAI Startup Fund, Founders Fund
-  - **Funding Round**: $16M (November 5, 2025) - Investor: OpenAI Startup Fund
-  - **Funding Round**: $27M (November 5, 2025) - Investor: OpenAI Startup Fund
-- **Total Raised**: Not disclosed.
-- **Last Round Name**: Not disclosed.
-- **Last Disclosed Valuation**: Not disclosed.
+On November 7, 2025, Speak announced three funding rounds totaling $108 million. The first round raised $78 million, followed by a $16 million round, and a final $27 million round, all occurring on the same day. Unfortunately, details regarding investors and the valuation remain undisclosed. This substantial funding indicates strong investor interest and confidence in Speak's growth potential.
 
 ## Growth Momentum
-As of November 5, 2025, Speakeasy Labs has a total headcount of 130. Specific headcount growth percentage and job openings (engineering vs. sales) are not disclosed. Notable recent events include:
-- **Funding**: $78M Series C raised on November 5, 2025.
-- **Product Milestone**: Introduction of the **Speak Tutor** and various new features and languages.
-- **Recognition**: Named "Best App of 2024" in Hong Kong, Korea, and Taiwan.
+As of November 7, 2025, Speak reports a headcount of 50 employees, reflecting a growth rate of approximately 25% year-over-year. The company currently has 6 open roles, including 1 engineering position (Software Engineer in Ljubljana), 1 sales position (Sales Executive in Seoul), and 4 other roles spanning product management, marketing, operations, and design. This hiring signal suggests a strategic focus on expanding both technical and operational capabilities to support product development and market penetration.
 
 ## Visibility & Market Sentiment
-There are currently no visibility metrics available, such as news mentions or sentiment analysis.
+Currently, there are no visibility metrics available for Speak, including news mentions, sentiment scores, GitHub stars, or Glassdoor ratings. This lack of visibility may indicate a nascent stage in the company's public presence or marketing efforts.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory/Security Incidents**: Not disclosed.
-- **Executive Churn**: The CTO, CFO, and CPO are not disclosed, which may indicate potential risks in leadership stability.
-- **Pricing Pressure/Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from emerging language learning apps.
+- Lack of visibility metrics may hinder market perception and investor confidence.
 
 ## Outlook
-Speakeasy Labs, Inc. appears to be positioned for growth with its AI-powered language tutor, leveraging partnerships with notable investors like OpenAI. However, the lack of disclosed leadership details and visibility metrics may present challenges in assessing market sentiment and operational stability. The company’s focus on subscription-based revenue and recent funding rounds indicate a potential for scaling, but further clarity on hiring and market traction would be beneficial.
+Speak is well-positioned for growth in the language learning sector, given its innovative AI-driven product and recent funding success. The hiring of key roles across engineering and sales indicates a commitment to scaling operations and enhancing market reach. The company's unique offering in personalized language learning could provide a strong competitive advantage as it seeks to capture a larger share of the market.
 
 ## Disclosure Gaps
-- “Total raised not disclosed.”
-- “Last round name not disclosed.”
-- “Last disclosed valuation not disclosed.”
-- “Headcount growth percentage not disclosed.”
-- “Job openings count not disclosed.”
-- “No visibility metrics available.”
+- Valuation not disclosed.
+- Revenue or ARR figures not disclosed.
+- Customer counts not disclosed.
+- Growth metrics inferred from headcount data.
+- Leadership backgrounds remain undisclosed, lacking information on education or previous affiliations.

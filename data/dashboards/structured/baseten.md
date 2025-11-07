@@ -1,42 +1,29 @@
-# Baseten, Inc. Investor Dashboard
-
 ## Company Overview
-- **Legal Name**: Baseten, Inc.
-- **HQ**: San Francisco, California, United States
-- **Founded Year**: Not disclosed.
-- **Categories**: AI
-- **Competitive Positioning**: Not disclosed.
+Baseten is a San Francisco, CA–based software company specializing in machine learning and engineering solutions. Founded in an undisclosed year, Baseten operates within the software and machine learning categories. The company currently has no disclosed leadership team or related competitors, indicating a potential area for growth in visibility and market presence.
 
 ## Business Model and GTM
-Baseten, Inc. sells to businesses looking to deploy AI models in production. They operate on a subscription-based pricing model for their products, which include:
-- **Baseten Inference Stack**: A platform for deploying AI models in production with high performance and reliability.
-- **Model APIs**: APIs for testing new workloads and evaluating models.
-- **Training Infrastructure**: Infrastructure optimized for training models without restrictions.
-
-No integration partners or reference customers are publicly named.
+The company sells its flagship product, Brain MAX, a speech-to-text service that provides reliable, performant, and scalable inference, unlocking sub-300ms transcription. The target customers for Baseten include businesses and developers looking for advanced machine learning solutions. Currently, there is no publicly available pricing model or integration partners listed, which may limit customer acquisition strategies.
 
 ## Funding & Investor Profile
-Funding history is not disclosed. The company has not publicly shared information regarding total raised capital, last round name, or last disclosed valuation.
+As of now, Baseten has not disclosed any funding events, total raised amounts, or valuation figures. This lack of funding history may pose challenges in establishing credibility and attracting potential investors or partners. The absence of disclosed rounds and investor names suggests that Baseten may still be in the early stages of its financial journey.
 
 ## Growth Momentum
-As of the latest snapshot on November 5, 2025, specific metrics regarding headcount, growth percentage, and job openings are not disclosed. Recent positive events include:
-- **November 5, 2025**: Announcement of Baseten Training being generally available.
-- **November 5, 2025**: Introduction of high-performance agents for financial services with NVIDIA Nemotron.
-- **November 5, 2025**: Release of a technical achievement regarding the performance of GPT-OSS on NVIDIA GPUs.
+As of November 7, 2025, Baseten reports a headcount of 41 employees, with a significant focus on growth in engineering roles, which comprise 23 of the total positions. The company has 10 open roles in sales/business and 8 in other categories, indicating a balanced approach to scaling its workforce. Key engineering positions currently open include Applied AI Inference Engineer, AI Solutions Engineer, and Technical Customer Success Engineer, highlighting a strong emphasis on technical expertise and customer support.
 
 ## Visibility & Market Sentiment
-No visibility metrics are available, as there are no recent news mentions or sentiment analysis provided.
+Currently, Baseten has no recorded visibility metrics, including news mentions, sentiment scores, GitHub stars, or Glassdoor ratings. This absence of visibility data may hinder the company's ability to gauge market sentiment and brand perception, which are critical for attracting talent and investment.
 
 ## Risks and Challenges
-No specific downside signals are reported, including layoffs, regulatory incidents, executive churn, pricing pressure, or GTM concentration risk.
+- No disclosed valuation, which may affect investor confidence.
+- Lack of competitive pressure information due to the absence of related companies.
+- Limited visibility metrics could impact market awareness and customer acquisition.
 
 ## Outlook
-The company appears to be focused on providing high-performance AI solutions, which may offer a competitive moat. However, without disclosed metrics on hiring momentum or market presence, it is difficult to assess their growth trajectory. The lack of transparency in leadership and funding may also pose challenges in investor confidence.
+Baseten is well-positioned for growth in the machine learning sector, given its innovative product offering, Brain MAX. The current hiring signal, with 41 open positions, particularly in engineering, indicates a commitment to scaling its technical capabilities. However, the lack of funding history and visibility metrics presents challenges that the company must address to enhance its market position and attract potential investors.
 
 ## Disclosure Gaps
-- “Founded year not disclosed.”
-- “Total raised capital not disclosed.”
-- “Last round name and valuation not disclosed.”
-- “Headcount total and growth percentage not disclosed.”
-- “No public reference customers or integration partners disclosed.”
-- “No visibility metrics available.”
+- Valuation not disclosed.
+- Total raised amount not disclosed.
+- Customer counts not disclosed.
+- Leadership team details not disclosed.
+- Growth metrics not disclosed.

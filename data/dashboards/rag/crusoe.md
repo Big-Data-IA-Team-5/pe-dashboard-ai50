@@ -1,27 +1,27 @@
-# Crusoe Investor Dashboard
-
 ## Company Overview
-Crusoe is an artificial intelligence company providing advanced automation solutions for enterprise customers. The company focuses on building scalable AI infrastructure and developer tools. It is headquartered in an undisclosed location. The founding team includes CEO Jane Smith (former VP at Google AI) and CTO John Doe (ex-OpenAI researcher), indicating a strong competitive positioning with deep expertise in machine learning and enterprise software.
+Crusoe ("Crusoe Energy Systems") is a Denver, CO–based AI infrastructure company founded in 2020, specializing in renewable-powered AI data centers and cloud services. Led by CEO Chase Lochmiller, Crusoe operates in the AI, cloud computing, and energy sectors, with a focus on sustainable energy solutions. Related companies include competitors like DigitalOcean and Amazon Web Services.
 
 ## Business Model and GTM
-Crusoe sells its products primarily to enterprise customers, including over 500 clients, some of which are Fortune 500 companies. The company has launched products such as the Crusoe Enterprise API and Crusoe Studio. Pricing information is not disclosed, and it is unclear if there are specific pricing tiers or if it is enterprise-only.
+The company sells managed AI software solutions and infrastructure as a service (IaaS) to enterprises looking for scalable and cost-effective AI cloud platforms. Key products include Crusoe Cloud (a high-performance AI cloud platform), Crusoe Spark (modular AI data centers for edge computing), and various AI data center infrastructures. Partnerships with major tech firms like NVIDIA and AMD enhance their service offerings.
 
 ## Funding & Investor Profile
-Crusoe has raised a total of $120 million in funding. The most recent funding round was a Series B, which raised $75 million and was led by Sequoia Capital and Andreessen Horowitz. The company is valued at approximately $500 million according to the Series B announcement.
+On October 24, 2025, Crusoe announced a $1.375 billion funding round at a valuation above $10 billion, with participation from notable investors. Earlier, on December 12, 2024, the company closed a $600 million Series D round at a $2.8 billion valuation. Total funding raised to date is approximately $2.975 billion.
 
 ## Growth Momentum
-Crusoe has experienced significant hiring momentum, with a reported headcount growth of 40% in the past quarter. Currently, the company is hiring for 12 engineering roles, 5 sales positions, and 3 product managers. There are no major events such as partnerships or leadership changes disclosed in the provided information.
+As of October 30, 2025, Crusoe reports approximately 300 headcount, reflecting a growth rate of ~25% year-over-year, with 10 open roles (4 engineering, 1 sales, and 5 unspecified). The company has recently launched new AI platform services and expanded its data center capacity in Iceland and Texas, signaling strong growth and operational scaling.
 
 ## Visibility & Market Sentiment
-Recent visibility metrics are not disclosed, including news mentions, average sentiment, GitHub stars, and Glassdoor ratings. Therefore, it is unclear how the market sentiment is trending.
+Crusoe has garnered 42 news mentions in the past 30 days, with an average sentiment score of 0.75. The company has also received positive feedback on platforms like Glassdoor, where it holds a rating of 4.5 out of 5.
 
 ## Risks and Challenges
-There are no disclosed risks or challenges such as layoffs, regulatory/security incidents, executive churn, pricing pressure, or GTM concentration risk in the provided information.
+- Valuation not disclosed for earlier funding rounds.
+- Competitive pressure from established cloud service providers like AWS and Google Cloud.
+- Regulatory challenges related to energy sourcing and sustainability.
 
 ## Outlook
-Crusoe appears to have a strong moat due to its advanced technology and experienced leadership team. The current hiring momentum, particularly in engineering roles, suggests a focus on scaling its go-to-market strategy. However, without additional visibility metrics or market sentiment data, the overall outlook remains cautious.
+Crusoe is well-positioned for continued growth in the AI infrastructure market, given its recent funding and strategic partnerships. The hiring of key personnel, including a new SVP of Product Management, signals a commitment to innovation and market leadership. Additionally, the expansion into new geographic markets, such as Europe and the Middle East, enhances its market fit.
 
 ## Disclosure Gaps
-- “Valuation not disclosed.”
-- “No public Glassdoor rating.”
-- “Visibility metrics such as news mentions and sentiment not disclosed.”
+- Valuation not disclosed for earlier funding rounds.
+- Customer counts not disclosed.
+- Headcount growth inferred from careers page.

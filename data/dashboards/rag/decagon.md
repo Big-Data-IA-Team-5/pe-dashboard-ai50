@@ -1,35 +1,27 @@
-# Company Overview
-**Legal Name / Brand Name:** Decagon  
-**HQ City & Country:** Not disclosed.  
-**Founded Year:** Not disclosed.  
-**Categories:** Artificial Intelligence, Automation Solutions  
-**Competitive Positioning:** The company states it provides advanced automation solutions for enterprise customers and focuses on building scalable AI infrastructure and developer tools.
+## Company Overview
+Decagon is a San Francisco, CA–based conversational AI company founded by Jesse Zhang and Ashwin Sreenivas. The company specializes in AI agents designed to enhance customer experience across various industries, including retail, travel, technology, financial services, health and wellness, media, and telecommunications. Decagon's mission is to empower brands to deliver efficient and satisfying customer interactions at scale.
 
-# Business Model and GTM
-Decagon sells to enterprise customers, including Fortune 500 companies. The company has not disclosed specific pricing models or tiers. Integration partners and reference customers are not explicitly named.
+## Business Model and GTM
+The company sells AI-driven customer experience solutions to enterprises, focusing on automating critical workflows such as support ticket resolution and user guidance. Key products include Agent Operating Procedures (AOPs), which enable dynamic handling of complex situations, and integrations across multiple channels like chat, email, and voice. Decagon's offerings are tailored to meet the needs of diverse industries, ensuring seamless customer interactions.
 
-# Funding & Investor Profile
-Decagon has raised a total of $120 million in funding. The most recent funding round was a Series B, where they secured $75 million, led by Sequoia Capital and Andreessen Horowitz. The company is valued at approximately $500 million.
+## Funding & Investor Profile
+Funding details for Decagon are not disclosed. The company has garnered attention and accolades, being recognized in Forbes' AI 50 and Business Insider's "Startups to bet your career on in 2025." However, specific funding rounds and investor details remain unavailable.
 
-# Growth Momentum
-According to the careers page, Decagon has grown its headcount by 40% in the past quarter. They are currently hiring for 12 engineering roles, 5 sales positions, and 3 product managers. Recent product launches include the Decagon Enterprise API and Decagon Studio.
+## Growth Momentum
+As of 2025, Decagon reports approximately 73 open roles, with a significant focus on engineering (29 positions) and sales (9 positions). This reflects a robust hiring trend as the company seeks to expand its capabilities in AI development and customer engagement. The company has achieved notable metrics, including an 80% deflection rate and a 70% resolution rate, indicating strong performance in customer service automation.
 
-# Visibility & Market Sentiment
-Not disclosed.
+## Visibility & Market Sentiment
+Decagon has received positive market sentiment, with an average customer satisfaction score of 93% and a significant decrease in support operations costs by 65%. The company has been mentioned in various industry discussions, highlighting its impact on customer experience transformation.
 
-# Risks and Challenges
-- No layoffs reported.
-- No regulatory or security incidents reported.
-- No executive churn reported.
-- No pricing pressure or commoditization signals reported.
-- No GTM concentration risk reported.
+## Risks and Challenges
+- Valuation not disclosed.
+- Competitive pressure from other AI-driven customer experience solutions.
+- Dependence on the evolving landscape of AI regulations and customer expectations.
 
-# Outlook
-Decagon appears to have a strong moat with its advanced AI infrastructure and a leadership team with deep expertise in machine learning and enterprise software. The current hiring momentum, particularly in engineering roles, suggests a focus on scaling their go-to-market efforts. The macro fit seems positive given their enterprise focus and recent product launches.
+## Outlook
+Decagon is well-positioned for continued growth in the AI customer experience sector, given its strong hiring signal and impressive performance metrics. The company's focus on innovation and customer-centric solutions suggests a solid market fit, enabling it to capture increasing demand for efficient customer service technologies.
 
-# Disclosure Gaps
-- "HQ city and country not disclosed."
-- "Founded year not disclosed."
-- "No public visibility metrics available."
-- "No specific pricing model or tiers disclosed."
-- "No integration partners or reference customers explicitly named."
+## Disclosure Gaps
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Specific funding details not disclosed.

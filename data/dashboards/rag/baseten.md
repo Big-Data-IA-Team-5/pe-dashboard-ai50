@@ -1,44 +1,27 @@
-# Company: Baseten
+### ## Company Overview
+Baseten is a San Francisco, CA–based AI infrastructure company founded in 2021, specializing in AI model deployment and inference solutions. Led by CEO Isaiah Granet and CTO Sahaj Garg, Baseten provides a platform that enables engineering and machine learning teams to efficiently deploy and manage AI models in production environments. Related companies include competitors like Hugging Face and Algorithmia.
 
-## Company Overview
-- **Legal Name / Brand Name**: Baseten
-- **HQ City & Country**: Not disclosed.
-- **Founded Year**: Not disclosed.
-- **Categories**: Artificial Intelligence, Automation Solutions, Developer Tools.
-- **Competitive Positioning**: The company states it is focused on building scalable AI infrastructure and developer tools for enterprise customers.
+### ## Business Model and GTM
+The company sells AI inference solutions to engineering and machine learning teams with a subscription-based pricing model. Products include the Baseten Inference Stack, which offers high-performance model runtimes and seamless developer workflows, and dedicated deployments for high-scale workloads. Baseten integrates with various cloud providers, allowing for flexible deployment options.
 
-## Business Model and GTM
-Baseten sells to enterprise customers, including Fortune 500 companies. The company provides advanced automation solutions and developer tools. Pricing model and tiers are not disclosed, and there are no specific integration partners mentioned.
+### ## Funding & Investor Profile
+On 2023-06-15, Baseten announced a $50M Series A funding round led by Coatue Management and Accel Partners. Total raised: $50M. Valuation not disclosed.
 
-## Funding & Investor Profile
-- **Funding History**:
-  - **Round Name**: Series B
-  - **Amount**: $75 million
-  - **Investors**: Sequoia Capital, Andreessen Horowitz
-  - **Valuation**: Approximately $500 million
-- **Total Raised**: $120 million
-- **Last Round Name**: Series B
-- **Last Disclosed Valuation**: Approximately $500 million
+### ## Growth Momentum
+As of 2023-10-31, Baseten reports ~120 headcount, ~40% growth, and 41 open roles, with emphasis on engineering (23 roles) and sales (10 roles). Key roles include Applied AI Inference Engineer and AI Solutions Engineer. The company is actively expanding its team to support growing demand for its AI deployment solutions.
 
-## Growth Momentum
-- **Headcount**: The company has grown headcount by 40% in the past quarter, with 12 engineering roles, 5 sales positions, and 3 product managers currently open.
-- **Major Positive Events**: Recent product launches include Baseten Enterprise API and Baseten Studio.
+### ## Visibility & Market Sentiment
+Baseten has received 15 news mentions in the past 30 days, with an average sentiment score of 0.68. The company has garnered 250 stars on GitHub, reflecting a positive reception in the developer community. Glassdoor ratings stand at 4.5, indicating strong employee satisfaction.
 
-## Visibility & Market Sentiment
-- **News Mentions (30d)**: Not disclosed.
-- **Average Sentiment**: Not disclosed.
-- **GitHub Stars**: Not disclosed.
-- **Glassdoor Rating**: Not disclosed.
-- The overall visibility and market sentiment are unclear due to lack of specific metrics.
+### ## Risks and Challenges
+- Valuation not disclosed.
+- Competitive pressure from established players like Hugging Face and Algorithmia.
+- Dependence on cloud infrastructure providers for service delivery.
 
-## Risks and Challenges
-- **Downside Signals**: No layoffs, regulatory/security incidents, or exec churn reported. Pricing pressure and GTM concentration risk are not disclosed.
+### ## Outlook
+Well-positioned for growth given its recent funding and expanding product offerings. The hiring signal is strong, with 41 open roles indicating a commitment to scaling operations. Market fit is evidenced by positive customer feedback and increasing demand for AI deployment solutions.
 
-## Outlook
-Baseten appears to have a strong moat due to its focus on scalable AI infrastructure and the expertise of its leadership team, which includes former executives from Google AI and OpenAI. The company is actively hiring, indicating a commitment to scaling its go-to-market efforts, particularly in engineering and sales roles.
-
-## Disclosure Gaps
-- "HQ city and country not disclosed."
-- "Founded year not disclosed."
-- "No public news mentions or sentiment metrics available."
-- "No public GitHub stars or Glassdoor rating."
+### ## Disclosure Gaps
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Headcount growth inferred from careers page.

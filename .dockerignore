@@ -1,0 +1,47 @@
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv
+venv/
+ENV/
+env/
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docs
+*.md
+!README.md
+!PE_Dashboard.md
+!PE_Dashboard_Concise.md
+
+# Large data folders (keep only necessary data)
+data/raw/*/
+!data/payloads/
+!data/forbes_ai50_seed.json
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache
+.coverage
+htmlcov/
+
+# Scripts (don't need in container)
+scripts/

@@ -1,32 +1,26 @@
-# Windsurf Investor Dashboard
+### ## Company Overview
+Windsurf ("Windsurf") is a Mountain View, CA–based software development company founded in an undisclosed year, operating in the AI coding assistant category. Led by CEO Varun Mohan, Windsurf aims to empower software engineers with innovative tools that enhance productivity and creativity.
 
-## Company Overview
-Windsurf is an artificial intelligence company providing advanced automation solutions for enterprise customers. The company focuses on building scalable AI infrastructure and developer tools. It is headquartered in an undisclosed location and was founded in an undisclosed year. The leadership team includes CEO Jane Smith, a former VP at Google AI, and CTO John Doe, an ex-OpenAI researcher, indicating a strong competitive positioning in the AI space.
+### ## Business Model and GTM
+The company sells AI coding tools to software engineers and enterprises with a freemium pricing model. Key products include SWE-1.5, a frontier model delivering near-state-of-the-art coding performance, and the Windsurf Editor, designed to streamline the coding process. Integrations with major IDEs and platforms enhance its market reach.
 
-## Business Model and GTM
-Windsurf sells its products primarily to enterprise customers, including over 500 clients, some of which are Fortune 500 companies. The company offers a pricing model that is not publicly disclosed. There are currently 12 engineering roles, 5 sales positions, and 3 product manager openings, indicating a focus on scaling its teams to support growth.
+### ## Funding & Investor Profile
+On an undisclosed date, Windsurf announced a total funding of $243M, with specific rounds and investors not disclosed. The company has successfully attracted significant investment, reflecting strong confidence in its innovative approach to software development.
 
-## Funding & Investor Profile
-Windsurf has raised a total of $120 million in funding, with the most recent round being a Series B funding of $75 million led by Sequoia Capital and Andreessen Horowitz. The company's valuation is approximately $500 million.
+### ## Growth Momentum
+As of the latest update, Windsurf reports a headcount of approximately 1, with 1 open role for a Software Engineer in the Windsurf Enterprise division. The company has achieved over 5 million plugin downloads and boasts more than 100 million daily lines of code written, indicating robust user engagement and growth potential.
 
-## Growth Momentum
-Windsurf has experienced a headcount growth of 40% in the past quarter. The company is actively hiring, with a focus on engineering and sales roles. Recent product launches include the Windsurf Enterprise API and Windsurf Studio, which are part of its strategy to enhance its offerings. 
+### ## Visibility & Market Sentiment
+Windsurf has garnered significant attention with over 100 news mentions in the past 30 days, averaging a sentiment score of 0.85. The company has also achieved over 1 million users and 4,000 enterprise customers, showcasing its strong market presence and positive reception among developers.
 
-## Visibility & Market Sentiment
-Not disclosed.
+### ## Risks and Challenges
+- Valuation not disclosed.
+- Competitive pressure from other AI coding tools in the market.
 
-## Risks and Challenges
-- No layoffs reported.
-- No regulatory or security incidents reported.
-- No executive churn reported.
-- No pricing pressure or commoditization signals noted.
-- GTM concentration risk is not disclosed.
+### ## Outlook
+Windsurf is well-positioned for continued growth given its innovative product offerings and strong user engagement metrics. The hiring signal indicates a focus on expanding its engineering team, which aligns with its mission to enhance software development capabilities.
 
-## Outlook
-Windsurf appears to have a strong moat due to its advanced AI infrastructure and the expertise of its founding team. The company's focus on hiring for engineering and sales roles suggests a commitment to scaling its go-to-market strategy. The macro fit for AI solutions in enterprise settings remains strong, positioning Windsurf well for future growth.
-
-## Disclosure Gaps
-- "Headquarters location not disclosed."
-- "Founded year not disclosed."
-- "No public Glassdoor rating."
-- "Visibility and market sentiment metrics not disclosed."
+### ## Disclosure Gaps
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Headcount growth inferred from careers page.

@@ -1,9 +1,31 @@
+# Core API
 fastapi==0.115.0
 uvicorn==0.30.6
-streamlit==1.38.0
-pydantic==2.9.2
-requests==2.32.3
 python-multipart==0.0.9
-openai>=1.12.0
+
+# Frontend
+streamlit==1.38.0
+
+# Data Models
+pydantic==2.9.2
+
+# HTTP Requests
+requests==2.32.3
+
+# Environment Variables
 python-dotenv>=1.0.0
+
+# LLM Integration
+openai>=1.12.0
+anthropic>=0.25.0
 instructor>=1.0.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# Data Processing
+pandas>=2.0.0
+python-dateutil>=2.8.2
+
+# GCP Integration
+google-cloud-storage>=2.10.0

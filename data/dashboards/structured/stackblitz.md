@@ -1,39 +1,28 @@
-# StackBlitz Investor Dashboard
-
 ## Company Overview
-- **Legal Name**: StackBlitz
-- **Founded Year**: 2025
-- **Categories**: AI
-- **HQ Location**: Not disclosed
-- **Competitive Positioning**: Not disclosed.
+StackBlitz is a software company founded in 2025, specializing in development tools. The company is led by CEO Eric S. and CTO Albert P. Currently, there are no disclosed related companies or competitors in the market.
 
 ## Business Model and GTM
-StackBlitz sells to developers and teams looking to create and launch applications directly from their browser. They utilize a subscription-based pricing model, but specific pricing tiers are not publicly disclosed. There are no named integration partners or reference customers mentioned.
+StackBlitz offers a unique product called Bolt, which allows users to turn text into working web applications. Bolt simplifies the development process by handling the code, enabling users to focus on their vision and launch applications directly from their browser. The company has not disclosed specific pricing models or integration partners at this time.
 
 ## Funding & Investor Profile
-There is no funding history available as there are no recorded events. The total amount raised, last round name, and last disclosed valuation are all marked as "Not disclosed."
+As of now, StackBlitz has not announced any funding rounds, and therefore, there are no disclosed amounts or investors. The total amount raised and the last disclosed valuation remain undisclosed.
 
 ## Growth Momentum
-As of the latest snapshot on November 5, 2025, the total headcount, headcount growth percentage, and job openings are all "Not disclosed." There are no major positive events such as partnerships, product releases, or leadership changes recorded.
+As of November 7, 2025, StackBlitz reports a headcount of 7 employees, with a current hiring focus that includes 1 engineering role, 1 sales/business role, and 5 other roles. The open positions include a Software Engineer, Product Manager, Sales Representative, Customer Experience Specialist, Marketing Manager, Design Lead, and People Operations Manager. There are no product launches or partnerships reported to date.
 
 ## Visibility & Market Sentiment
-There are no visibility metrics available, including news mentions or sentiment analysis.
+Currently, there are no visibility metrics available for StackBlitz, including news mentions, sentiment scores, GitHub stars, or Glassdoor ratings.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- No funding history may indicate potential challenges in securing investment.
+- Competitive pressure from other development tool companies may pose a risk to market entry and growth.
 
 ## Outlook
-Given the current state of StackBlitz, there is limited information available to assess the company's moat, GTM scaling, or macro fit. The absence of disclosed metrics and events makes it challenging to provide a comprehensive outlook.
+StackBlitz is well-positioned for growth in the development tools market, given its innovative product, Bolt, which streamlines the app development process. The current hiring signal indicates a focus on expanding engineering and product management capabilities, which could enhance its market presence.
 
 ## Disclosure Gaps
-- “Total raised not disclosed.”
-- “Last round name not disclosed.”
-- “Last disclosed valuation not disclosed.”
-- “Headcount total not disclosed.”
-- “Headcount growth percentage not disclosed.”
-- “Job openings count not disclosed.”
-- “No visibility metrics available.”
+- Valuation not disclosed.
+- Total amount raised not disclosed.
+- Customer counts not disclosed.
+- Headcount growth metrics not disclosed.
+- Leadership backgrounds (education, previous affiliations) not disclosed.

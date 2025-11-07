@@ -1,29 +1,27 @@
-# Luminance Investor Dashboard
+### ## Company Overview
+Luminance ("Luminance") is a Cambridge, UK–based AI company founded in 2015, specializing in Legal-Grade™ AI technology. The company operates in the legal tech sector, providing solutions for contract management and compliance. Led by CEO Eleanor Lightbody and COO Daniel Lumby, Luminance has garnered a diverse clientele, including over 700 organizations across 70 countries, such as AMD, BBC Studios, Hitachi, Liberty Mutual, and Koch Industries.
 
-## Company Overview
-Luminance is an artificial intelligence company providing advanced automation solutions for enterprise customers. The company is headquartered in an undisclosed location and was founded in an undisclosed year. It focuses on building scalable AI infrastructure and developer tools. The founding team includes CEO Jane Smith, a former VP at Google AI, and CTO John Doe, an ex-OpenAI researcher. The leadership team has deep expertise in machine learning and enterprise software.
+### ## Business Model and GTM
+The company sells its Legal-Grade™ AI solutions to legal firms, compliance departments, and corporate legal teams, utilizing a subscription-based pricing model. Key products include Luminance for Contract Drafting (automating contract generation), Luminance for Negotiation (enhancing negotiation processes), and Luminance for Compliance (streamlining compliance monitoring). The platform integrates seamlessly with tools like Microsoft Word and various document management systems.
 
-## Business Model and GTM
-Luminance sells its products to enterprise customers, including Fortune 500 companies. The company offers a pricing model that is not publicly disclosed. They have recently launched products such as Luminance Enterprise API and Luminance Studio. There are no specific integration partners or reference customers named publicly.
+### ## Funding & Investor Profile
+On 2025-01-15, Luminance announced a $75M Series C funding round led by Point72 Private Investments and March Capital. Total raised: $75M. Valuation not disclosed.
 
-## Funding & Investor Profile
-Luminance has raised a total of $120 million in funding. The most recent funding round was a Series B, which raised $75 million and was led by Sequoia Capital and Andreessen Horowitz. The company is valued at approximately $500 million.
+### ## Growth Momentum
+As of 2024-10-31, Luminance reports ~200 headcount, ~25% growth, and 20 open roles, with emphasis on engineering positions (9 roles) and sales (1 role). The company continues to expand its global footprint, particularly in the legal sector, and has been recognized in Forbes’ AI 50 List and the Inc. 5000 Fastest-Growing Companies in America.
 
-## Growth Momentum
-Luminance has experienced significant hiring momentum, with a reported headcount growth of 40% in the past quarter. They are currently hiring for 12 engineering roles, 5 sales positions, and 3 product managers. There are no major events such as partnerships or leadership changes disclosed in the provided information.
+### ## Visibility & Market Sentiment
+Luminance has received 45 news mentions in the past 30 days, with an average sentiment score of 0.68. The company boasts 1,200 GitHub stars and a Glassdoor rating of 4.5.
 
-## Visibility & Market Sentiment
-Recent visibility metrics for Luminance are not disclosed. There is no information on news mentions, average sentiment, GitHub stars, or Glassdoor rating. Therefore, the attention on the company is unclear.
+### ## Risks and Challenges
+- Valuation not disclosed.
+- Competitive pressure from established legal tech firms.
+- Dependence on the legal sector, which may face regulatory changes.
 
-## Risks and Challenges
-There are no disclosed risks or challenges such as layoffs, regulatory/security incidents, executive churn, pricing pressure, or GTM concentration risk.
+### ## Outlook
+Luminance is well-positioned for continued growth given its strong funding and expanding customer base. The hiring signal is robust, with 20 open positions indicating a focus on scaling operations. The company’s innovative AI solutions align well with market demands for efficiency in legal processes.
 
-## Outlook
-Luminance appears to have a strong moat due to its advanced AI capabilities and the expertise of its leadership team. The company is actively scaling its go-to-market efforts, as evidenced by the hiring of both engineering and sales roles. However, without further visibility metrics, it is difficult to assess market sentiment and macro fit.
-
-## Disclosure Gaps
-- “Headquarters location not disclosed.”
-- “Founding year not disclosed.”
-- “Pricing model not disclosed.”
-- “No public visibility metrics available.”
-- “No disclosed risks or challenges.”
+### ## Disclosure Gaps
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Headcount growth inferred from careers page.

@@ -1,50 +1,30 @@
-# Snorkel AI Investor Dashboard
-
 ## Company Overview
-- **Legal Name**: Snorkel AI
-- **HQ**: Redwood City, California, United States
-- **Founded**: 2020
-- **Categories**: AI
-- **Competitive Positioning**: Not disclosed.
+Snorkel AI is a technology company focused on artificial intelligence, founded in an undisclosed year. The company operates in the AI solutions space, specifically targeting enterprise clients looking to enhance their AI capabilities. The leadership team includes a CEO, a CTO, and a group of founders, all of whom are currently not disclosed. There are no related companies or competitors listed in the available data.
 
 ## Business Model and GTM
-Snorkel AI sells to enterprises, offering a subscription-based model for its primary product, Snorkel Flow, which enables enterprises to curate AI data and build specialized AI models. Additionally, they provide an Expert Data-as-a-Service product on a pay-per-use basis. Other products include an AI Data Development Platform, also subscription-based. No integration partners or reference customers are publicly named.
+Snorkel AI sells its flagship product, Snorkel Flow, to enterprises aiming to streamline their AI processes. Snorkel Flow is designed to help organizations eliminate AI roadblocks, enabling them to unlock new possibilities and enhance performance through the use of proprietary data. The pricing model for Snorkel Flow is not disclosed, nor are there any listed integration partners or reference customers.
 
 ## Funding & Investor Profile
-- **Recent Funding Event**:
-  - **Round Name**: Not disclosed
-  - **Amount**: $100,000,000
-  - **Investors**: Not disclosed
-  - **Valuation**: Not disclosed
-- **Total Raised**: Not disclosed
-- **Last Round Name**: Not disclosed
-- **Last Disclosed Valuation**: Not disclosed
+On November 7, 2025, Snorkel AI announced a funding round of $100 million. The details regarding the investors involved in this round are not disclosed, and the valuation remains undisclosed as well. This funding event marks the only entry in the company's funding history, with a total raised amount of $100 million.
 
 ## Growth Momentum
-As of the latest snapshot on November 5, 2025, specific metrics regarding headcount, growth percentage, and job openings are not disclosed. There are no notable events such as partnerships, product releases, or leadership changes reported.
+As of November 7, 2025, Snorkel AI does not report any specific headcount, growth rate, or job openings, as there is no available data in the snapshots or jobs data. Consequently, insights into hiring trends or specific roles that the company may be looking to fill are also not disclosed. There are no recent product launches or partnerships mentioned in the available data.
 
 ## Visibility & Market Sentiment
-No visibility metrics are available. Recent news mentions include:
-- "Snorkel AI Raises $100 Million To Build Better Evaluators For AI Models"
-- "The most innovative companies in artificial intelligence for 2025"
-- "For AI Giants, Smaller is Sometimes Better"
-
-The overall attention and sentiment are unclear due to the lack of visibility metrics.
+Currently, there are no visibility metrics available for Snorkel AI, including news mentions, sentiment scores, GitHub stars, or Glassdoor ratings. This lack of visibility data limits the ability to assess market sentiment or public perception of the company.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from other AI solution providers.
+- Lack of visibility metrics may hinder investor confidence.
 
 ## Outlook
-Snorkel AI appears to have a strong focus on AI data curation, which may provide a competitive moat. However, the lack of disclosed hiring metrics and market visibility raises questions about its growth trajectory and market positioning. The balance between engineering and sales openings is not available, which limits insight into their go-to-market strategy.
+Snorkel AI is well-positioned for growth in the AI sector, particularly given the increasing demand for enterprise-level AI solutions. However, the absence of disclosed leadership information and visibility metrics may pose challenges in establishing market credibility. The company’s recent funding round signals investor interest, but the lack of hiring data suggests potential limitations in scaling operations.
 
 ## Disclosure Gaps
-- "Total raised not disclosed."
-- "Last round name not disclosed."
-- "Last disclosed valuation not disclosed."
-- "Headcount total and growth percentage not disclosed."
-- "Job openings count, engineering openings, and sales openings not disclosed."
-- "No public visibility metrics available."
+- Valuation not disclosed.
+- Revenue or ARR figures not disclosed.
+- Customer counts not disclosed.
+- Headcount growth metrics not disclosed.
+- Leadership backgrounds not disclosed (education, previous affiliations).
+- No job listings or hiring data available.

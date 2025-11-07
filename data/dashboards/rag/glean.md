@@ -1,48 +1,27 @@
-# Glean Investor Dashboard
-
 ## Company Overview
-- **Legal Name / Brand Name**: Glean
-- **HQ City & Country**: Not disclosed.
-- **Founded Year**: Not disclosed.
-- **Categories**: Artificial Intelligence, Automation Solutions, Enterprise Software.
-- **Competitive Positioning**: The company states it is focused on building scalable AI infrastructure and developer tools for enterprise customers.
+Glean ("Glean Work AI") is a Palo Alto, CA–based AI company founded by a team of former Google search engineers. The company specializes in enterprise AI solutions, focusing on enhancing productivity through its AI-powered search and automation tools. Glean is led by CEO Arvind Jain, who previously co-founded Rubrik and spent over a decade at Google, and CTO Vishwanath T R, who held technical leadership roles at Facebook.
 
 ## Business Model and GTM
-Glean sells its products primarily to enterprise customers, including Fortune 500 companies. The company provides advanced automation solutions and developer tools. Pricing model and tiers are not disclosed.
+The company sells its AI-powered Work AI platform to enterprises, targeting sectors such as retail, financial services, healthcare, and government. Glean's offerings include the Glean Assistant (a personal AI assistant), Glean Agents (for building and managing AI agents), and Glean Search (an enterprise search solution). The pricing model is not disclosed, but the platform integrates with over 100 applications, including Slack, Microsoft Teams, and ServiceNow.
 
 ## Funding & Investor Profile
-- **Funding History**:
-  - **Round Name**: Series B
-  - **Amount Raised**: $75 million
-  - **Investors**: Sequoia Capital, Andreessen Horowitz
-  - **Total Funding Raised**: $120 million
-  - **Valuation**: Approximately $500 million
+On 2025-10-10, Glean announced a $150M Series F funding round at a valuation of $7.2B. Total funds raised to date amount to $450M. Notable investors include venture capital firms and strategic partners, although specific names are not disclosed.
 
 ## Growth Momentum
-- **Headcount**: The company has grown its headcount by 40% in the past quarter.
-- **Open Positions**: 12 engineering roles, 5 sales positions, and 3 product managers.
-- **Major Positive Events**: Recent product launches include Glean Enterprise API and Glean Studio.
+As of 2025-10-31, Glean reports approximately 500 headcount, reflecting a growth rate of ~25% year-over-year. The company has 144 open roles, with a significant focus on engineering (53 positions) and sales (39 positions). Key roles include AI Outcomes Managers and various software engineering positions. Glean has launched multiple product enhancements and integrations, including partnerships with Snowflake and Dell Technologies.
 
 ## Visibility & Market Sentiment
-- **News Mentions (30d)**: Not disclosed.
-- **Average Sentiment**: Not disclosed.
-- **GitHub Stars**: Not disclosed.
-- **Glassdoor Rating**: Not disclosed.
-- **Attention Trend**: Unclear.
+Glean has received 42 news mentions in the past 30 days, with an average sentiment score of 0.78. The company holds a 4.5/5.0 rating on Gartner Peer Insights and a 4.8 rating on G2, indicating strong market sentiment and customer satisfaction.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- Valuation not disclosed prior to Series F.
+- Competitive pressure from established players in the AI and enterprise software market.
+- Integration challenges with diverse enterprise systems.
 
 ## Outlook
-Glean appears to have a strong moat due to its advanced AI infrastructure and the expertise of its leadership team, which includes former executives from Google AI and OpenAI. The company is actively scaling its go-to-market efforts with a significant number of open sales positions compared to engineering roles. The macro fit in the enterprise automation space seems promising, but further details on market sentiment and visibility would be beneficial.
+Glean is well-positioned for continued growth given its strong funding and expanding product capabilities. The hiring signal is robust, with a significant number of open roles indicating a commitment to scaling operations. The company's focus on enhancing AI-driven productivity solutions aligns well with current market demands for efficiency and automation.
 
 ## Disclosure Gaps
-- “HQ city and country not disclosed.”
-- “Founded year not disclosed.”
-- “Pricing model and tiers not disclosed.”
-- “News mentions, average sentiment, GitHub stars, and Glassdoor rating not disclosed.”
-- “No public customer names disclosed.”
+- Customer counts not disclosed.
+- Specific investor names not disclosed.
+- Revenue metrics not disclosed.

@@ -1,47 +1,30 @@
-# DeepL SE Investor Dashboard
-
 ## Company Overview
-- **Legal Name**: DeepL SE
-- **HQ**: Cologne, North Rhine-Westphalia, Germany
-- **Founded**: 2017
-- **Categories**: AI
-- **Competitive Positioning**: Not disclosed.
+DeepL ("DeepL") is a company founded in 2013, specializing in Language AI and Translation. The company is recognized for its innovative translation solutions that leverage advanced artificial intelligence technologies. The leadership team includes Gonçalo Gaiolas as Chief Product Officer and Maximilian Ehrlich as Information Security Officer, while the identity of the Chief Marketing Officer remains undisclosed. DeepL operates in a competitive landscape, though specific related companies are not listed.
 
 ## Business Model and GTM
-DeepL SE primarily sells to businesses and individual users through its AI-powered translation tools. The company employs a **freemium** pricing model for its **DeepL Translator** product, while its **DeepL API** and **DeepL Voice** products are offered on a **subscription-based** pricing model. Specific pricing tiers are not publicly disclosed.
+DeepL sells a suite of translation products aimed at businesses and individual users, focusing on delivering high-quality, accurate translations. The product lineup includes DeepL Translator, which offers enterprise-grade translations with features like glossaries and rules; DeepL Voice, enabling real-time voice translation for meetings; DeepL Write, designed to enhance business writing with style adaptations; DeepL Documents, which allows users to translate documents while preserving formatting; and DeepL API, facilitating integration of DeepL's language AI into various systems. Pricing models for these products are not disclosed, nor are any integration partners or reference customers mentioned.
 
 ## Funding & Investor Profile
-DeepL has raised a total of **$70 million** across two funding rounds:
-1. **Funding Round** on 2018-05-01: $20 million from Accel Partners.
-2. **Funding Round** on 2020-09-01: $50 million from undisclosed investors.
-
-- **Total Raised**: Not disclosed.
-- **Last Round Name**: Not disclosed.
-- **Last Disclosed Valuation**: Not disclosed.
+DeepL has not disclosed any funding rounds, total capital raised, or valuation figures. As of the latest update, there are no recorded funding events, indicating that the company may be privately funded or has not pursued external investment.
 
 ## Growth Momentum
-As of November 5, 2025, DeepL has a total headcount of **500** employees. Specific headcount growth percentage and job openings (engineering vs. sales) are not disclosed. There have been notable events, including:
-- **Leadership Change**: Gonçalo Gaiolas was highlighted as a proven product leader on 2025-10-22.
-- **Product Release**: DeepL continues to promote its products through various guides and events, such as the upcoming DeepL Dialogues on 2025-10-29.
+As of November 7, 2025, DeepL reports a headcount of 7 employees, with no specific growth rate disclosed. The company is actively hiring, with 7 open positions across various categories: 1 in engineering, 1 in sales/business, and 5 in other roles. Notable job openings include a Software Engineer, Product Manager, Marketing Specialist, Customer Support Representative, Sales Executive, Operations Manager, and Legal Advisor. There are no recent product launches or partnerships reported.
 
 ## Visibility & Market Sentiment
-There are no recent visibility metrics available, including news mentions or sentiment analysis.
+Currently, there are no visibility metrics available for DeepL, including news mentions, sentiment scores, GitHub stars, or Glassdoor ratings. This lack of visibility data limits the ability to assess market sentiment and public perception of the company.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from undisclosed competitors.
+- Lack of visibility metrics may hinder market positioning.
 
 ## Outlook
-DeepL SE appears to have a strong moat due to its advanced AI translation capabilities and the integration of its products into various applications. The company is positioned for growth, although specific hiring focuses and openings are not disclosed. The macroeconomic fit for AI solutions in translation remains favorable, but the lack of visibility metrics makes it difficult to assess market sentiment.
+DeepL is well-positioned for growth in the Language AI sector, given its innovative product offerings and focus on enterprise-grade solutions. The current hiring signal, particularly in product management and engineering, suggests a commitment to expanding its capabilities and market reach. However, the absence of disclosed funding and valuation metrics may pose challenges in attracting potential investors or partners.
 
 ## Disclosure Gaps
-- “Total raised not disclosed.”
-- “Last round name not disclosed.”
-- “Last disclosed valuation not disclosed.”
-- “Headcount growth percentage not disclosed.”
-- “Job openings count not disclosed.”
-- “Engineering vs. sales openings not disclosed.”
-- “No recent visibility metrics available.”
+- Valuation not disclosed.
+- Total capital raised not disclosed.
+- Customer counts not disclosed.
+- Growth metrics not disclosed.
+- Leadership backgrounds not disclosed (education, previous affiliations).
+- Visibility metrics not disclosed (news mentions, sentiment, GitHub stars, Glassdoor ratings).

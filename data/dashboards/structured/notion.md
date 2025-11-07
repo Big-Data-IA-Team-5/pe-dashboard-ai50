@@ -1,44 +1,29 @@
-# Notion Labs Inc. Investor Dashboard
-
 ## Company Overview
-- **Legal Name**: Notion Labs Inc.
-- **HQ**: San Francisco, California, United States
-- **Founded**: 2013
-- **Categories**: AI
-- **Competitive Positioning**: Not disclosed.
+Notion Labs, Inc. ("Notion") is a San Francisco, CA–based productivity software company founded in 2013. The company operates in the productivity and software categories, providing a versatile workspace that combines notes, tasks, databases, and more in a customizable format. The leadership team includes Co-founders Akshay Kothari, Simon Last, and Chris Prendergast, who have been instrumental in shaping the company's vision and growth.
 
 ## Business Model and GTM
-Notion Labs Inc. sells to individuals and teams looking for productivity solutions. They charge through a subscription-based pricing model for their products. The specific pricing tiers are not publicly disclosed. Notion AI, an AI-powered assistant, is included in subscription plans, while Notion Workspace is also subscription-based. There are no stated integration partners or reference customers.
+Notion sells its productivity software to a wide range of target customers, including individuals, teams, and enterprises. The company’s flagship product, Notion, is designed to enhance collaboration and organization through its customizable workspace. While specific pricing models are not disclosed, the product's versatility allows for various use cases, from personal note-taking to complex project management. Notion currently does not list any integration partners or reference customers.
 
 ## Funding & Investor Profile
-Notion Labs Inc. has raised a total of $62 million across three funding rounds:
-1. **Funding Round** on 2018-03-01: $2 million from Accel Partners.
-2. **Funding Round** on 2020-06-01: $10 million from Index Ventures.
-3. **Funding Round** on 2021-10-01: $50 million from Andreessen Horowitz.
-
-- **Total Raised**: Not disclosed.
-- **Last Round Name**: Not disclosed.
-- **Last Disclosed Valuation**: Not disclosed.
+As of now, Notion has not disclosed any funding rounds or investor details, with total raised capital and last valuation also not disclosed. The absence of funding events suggests that the company may be operating on internal cash flow or has not pursued external investment recently.
 
 ## Growth Momentum
-As of the latest snapshot on 2025-11-05, Notion Labs Inc. has a total headcount of 500. The headcount growth percentage is not disclosed, and there are no current job openings reported. There have been significant positive events, including the introduction of Notion 3.0 on 2023-01-15 and a partnership with Samsung announced on 2023-02-10.
+As of November 7, 2025, Notion reports a headcount of approximately 138 employees, with a notable focus on hiring across various departments. The company has 39 open engineering roles, 42 sales/business roles, and 57 positions in other categories. This hiring strategy indicates a strong growth trajectory, particularly in engineering and customer experience, as they expand their product offerings and market reach. The current job listings include critical roles such as Business Systems Analyst, Billing Support Specialist, and Enterprise Customer Success Manager, reflecting a diverse hiring strategy aimed at enhancing customer support and technical capabilities.
 
 ## Visibility & Market Sentiment
-There are no visibility metrics available for Notion Labs Inc. at this time, including news mentions or sentiment analysis.
+Currently, there are no visibility metrics available for Notion, including news mentions, sentiment scores, GitHub stars, or Glassdoor ratings. This lack of data may indicate limited media coverage or public engagement, which could impact the company's market presence and brand recognition.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from other productivity software providers.
+- Lack of visibility metrics may hinder market perception and investor interest.
 
 ## Outlook
-Notion Labs Inc. appears to have a solid foundation with its AI-powered products and a growing workforce. However, the lack of disclosed funding details and visibility metrics may pose challenges in assessing market sentiment and growth potential. The company's focus on subscription-based models suggests a steady revenue stream, but the absence of public pricing tiers and reference customers limits visibility into market penetration.
+Notion is well-positioned for continued growth in the productivity software market, given its innovative product offering and strong hiring signals. The emphasis on expanding engineering and customer success roles suggests a commitment to enhancing product capabilities and user experience. However, the absence of disclosed funding and visibility metrics may pose challenges in attracting new customers and investors.
 
 ## Disclosure Gaps
-- “Total raised not disclosed.”
-- “Last round name not disclosed.”
-- “Last disclosed valuation not disclosed.”
-- “Headcount growth percentage not disclosed.”
-- “No visibility metrics available.”
+- Valuation not disclosed.
+- Total raised capital not disclosed.
+- Customer counts not disclosed.
+- Growth metrics not disclosed.
+- Specific pricing model details not disclosed.

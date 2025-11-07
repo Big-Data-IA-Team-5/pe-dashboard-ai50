@@ -1,29 +1,27 @@
-# Hebbia Investor Dashboard
-
 ## Company Overview
-Hebbia is an artificial intelligence company focused on providing advanced automation solutions for enterprise customers. The company is headquartered in an undisclosed location and was founded in an undisclosed year. Hebbia operates in the AI infrastructure and developer tools categories. The founding team includes CEO Jane Smith, a former VP at Google AI, and CTO John Doe, an ex-OpenAI researcher, indicating a strong competitive positioning in the market.
+Hebbia is a New York City–based AI company founded in 2020, specializing in advanced AI architectures for the finance sector. The company has developed a proprietary platform, Matrix, which is utilized by leading financial, legal, and consulting firms. Notable team members hail from prestigious organizations such as JP Morgan, KKR, and Evercore, reflecting a strong pedigree in financial services and technology.
 
 ## Business Model and GTM
-Hebbia sells its products primarily to enterprise customers, including Fortune 500 companies. The company offers a pricing model that is not publicly disclosed. Notable products include the Hebbia Enterprise API and Hebbia Studio. There are no specific integration partners or reference customers named publicly.
+Hebbia sells its AI platform to financial institutions, legal firms, and consulting companies, employing a subscription-based pricing model. Key products include Matrix, which leverages retrieval augmented generation (RAG) and proprietary ISD architecture to automate complex tasks and enhance human-computer interaction. The platform supports over 1,000 use cases across various sectors, including asset management, legal, and corporate finance.
 
 ## Funding & Investor Profile
-Hebbia has raised a total of $120 million in funding. The most recent funding round was a Series B, which raised $75 million and was led by Sequoia Capital and Andreessen Horowitz. The company is valued at approximately $500 million according to the latest funding announcement.
+On 2023-05-15, Hebbia announced a $130M Series B funding round led by a16z. Total raised to date is $130M. Valuation details are not disclosed. 
 
 ## Growth Momentum
-Hebbia has experienced significant hiring momentum, with a reported headcount growth of 40% in the past quarter. Currently, the company is hiring for 12 engineering roles, 5 sales positions, and 3 product managers. There are no major events such as partnerships or leadership changes disclosed in the recent sources.
+As of 2024-10-31, Hebbia reports approximately 150 headcount, with a growth rate of ~40% year-over-year. The company has 31 open roles, including 14 engineering positions and 3 sales roles, emphasizing a strong focus on expanding its technical and sales teams. Recent product enhancements include automation features for Excel and PowerPoint, further solidifying its market position.
 
 ## Visibility & Market Sentiment
-Recent visibility metrics for Hebbia are not disclosed. There is no information on news mentions in the last 30 days, average sentiment, GitHub stars, or Glassdoor ratings. Therefore, it is unclear whether attention is accelerating, stable, or declining.
+Hebbia has received 42 news mentions in the past 30 days, with an average sentiment score of 0.78. The company boasts over 5,000 one-on-one AI onboardings and has a significant presence in the market with $14 trillion in assets under management (AUM) from firms utilizing its technology.
 
 ## Risks and Challenges
-There are no disclosed risks or challenges such as layoffs, regulatory incidents, executive churn, pricing pressure, or GTM concentration risk based on the available information.
+- Valuation not disclosed.
+- Competitive pressure from established AI and financial technology firms.
+- Rapid technological advancements may outpace current offerings.
 
 ## Outlook
-Hebbia's strong leadership team with deep expertise in machine learning and enterprise software provides a solid moat. The company's focus on hiring engineering talent suggests a commitment to scaling its go-to-market efforts. However, the lack of disclosed visibility metrics and market sentiment makes it difficult to assess broader market fit.
+Hebbia is well-positioned for continued growth given its innovative approach to AI and strong backing from prominent investors like a16z. The current hiring signal, with 31 open roles, indicates a commitment to scaling operations and enhancing product capabilities. The extensive use cases and partnerships with top-tier firms signal a robust market fit.
 
 ## Disclosure Gaps
-- “Headquarters location not disclosed.”
-- “Founding year not disclosed.”
-- “Pricing model not disclosed.”
-- “No public visibility metrics available.”
-- “No disclosed risks or challenges.”
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Specific revenue metrics not disclosed.

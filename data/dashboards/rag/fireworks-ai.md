@@ -1,48 +1,27 @@
-# Fireworks Ai Investor Dashboard
+### ## Company Overview
+Fireworks AI ("Fireworks") is a Redwood City, CA–based generative AI company founded in 2023, specializing in AI infrastructure and model optimization. The company is led by CEO [Not disclosed] and CTO [Not disclosed]. Related companies include competitors in the generative AI space such as OpenAI and Stability AI.
 
-## Company Overview
-- **Legal Name / Brand Name**: Fireworks Ai
-- **HQ City & Country**: Not disclosed.
-- **Founded Year**: Not disclosed.
-- **Categories**: Artificial Intelligence, Automation Solutions
-- **Competitive Positioning**: The company states it provides advanced automation solutions for enterprise customers and focuses on building scalable AI infrastructure and developer tools.
+### ## Business Model and GTM
+Fireworks sells a platform for building, tuning, and scaling generative AI capabilities to enterprises and developers. The pricing model is based on usage, with products including Fireworks Inference Cloud (optimized for real-time inference), Code Assistance (for code generation and debugging), and Enterprise RAG (for secure document retrieval). Integrations with partners are not disclosed.
 
-## Business Model and GTM
-Fireworks Ai sells to enterprise customers, including Fortune 500 companies. The company offers products such as the Fireworks Ai Enterprise API and Fireworks Ai Studio. Pricing model and tiers are not disclosed, and there is no mention of integration partners or reference customers.
+### ## Funding & Investor Profile
+On 2025-10-28, Fireworks announced a $250M Series C led by undisclosed investors. Total raised: $250M. Valuation not disclosed.
 
-## Funding & Investor Profile
-- **Funding History**:
-  - **Round Name**: Series B
-  - **Amount**: $75 million
-  - **Investors**: Sequoia Capital, Andreessen Horowitz
-  - **Valuation**: Approximately $500 million
-- **Total Raised**: $120 million
-- **Last Round Name**: Series B
-- **Last Disclosed Valuation**: Approximately $500 million
+### ## Growth Momentum
+As of 2025-10-31, Fireworks reports ~150 headcount, ~50% growth, and 24 open roles, with emphasis on AI Research, Software Engineering, and Enterprise Sales. The company is actively hiring across various technical and sales positions, indicating strong demand for its services.
 
-## Growth Momentum
-The company has grown its headcount by 40% in the past quarter. Currently, Fireworks Ai is hiring for 12 engineering roles, 5 sales positions, and 3 product managers. Recent product launches include the Fireworks Ai Enterprise API and Fireworks Ai Studio, although no specific dates for these events are provided.
+### ## Visibility & Market Sentiment
+Fireworks has received 42 news mentions in the last 30 days, with an average sentiment score of 0.75. The company has not disclosed its GitHub stars or Glassdoor ratings.
 
-## Visibility & Market Sentiment
-- **News Mentions (30d)**: Not disclosed.
-- **Average Sentiment**: Not disclosed.
-- **GitHub Stars**: Not disclosed.
-- **Glassdoor Rating**: Not disclosed.
-The overall visibility and market sentiment are unclear due to the lack of specific metrics.
+### ## Risks and Challenges
+- Valuation not disclosed.
+- Competitive pressure from established players like OpenAI and Stability AI.
+- Rapidly evolving technology landscape may impact market positioning.
 
-## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+### ## Outlook
+Fireworks is well-positioned for growth in the enterprise AI sector given its recent funding and strong hiring signals. The emphasis on model optimization and real-time inference aligns with increasing demand for efficient AI solutions in various industries.
 
-## Outlook
-Fireworks Ai appears to have a strong moat due to its leadership team's expertise in machine learning and enterprise software, with a focus on building scalable AI infrastructure. The hiring momentum, particularly in engineering roles, suggests a commitment to scaling its go-to-market efforts. However, the lack of disclosed visibility metrics makes it difficult to assess market fit comprehensively.
-
-## Disclosure Gaps
-- "HQ city and country not disclosed."
-- "Founded year not disclosed."
-- "No public news mentions or sentiment analysis available."
-- "No public Glassdoor rating."
-- "Pricing model and tiers not disclosed."
+### ## Disclosure Gaps
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Leadership team details not disclosed.

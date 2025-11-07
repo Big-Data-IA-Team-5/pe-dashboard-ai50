@@ -30,15 +30,20 @@ class LLMClient:
         self.client = OpenAI(api_key=self.api_key)
         self.model = model
         
-        # Load system prompt from PE_Dashboard.md
-        prompt_path = Path(__file__).parent.parent / "PE_Dashboard.md"
+        # Load concise system prompt - prefer PE_Dashboard_Concise.md
+        prompt_path = Path(__file__).parent.parent / "PE_Dashboard_Concise.md"
+        if not prompt_path.exists():
+            # Fallback to original
+            prompt_path = Path(__file__).parent.parent / "PE_Dashboard.md"
+            print(f"⚠️  Using PE_Dashboard.md (concise version not found)")
+        
         if not prompt_path.exists():
             raise FileNotFoundError(
-                f"System prompt not found at: {prompt_path}\n"
-                f"Make sure PE_Dashboard.md exists in project root."
+                f"System prompt not found. Need PE_Dashboard_Concise.md or PE_Dashboard.md"
             )
         
         self.system_prompt = prompt_path.read_text()
+        print(f"✓ System prompt loaded from: {prompt_path.name} ({len(self.system_prompt)} chars)")
         print(f"✓ LLM Client initialized")
         print(f"  Model: {self.model}")
         print(f"  Prompt loaded: {len(self.system_prompt)} chars")

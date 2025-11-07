@@ -1,27 +1,27 @@
-# Openevidence Investor Dashboard
+### ## Company Overview
+OpenEvidence ("OpenEvidence") is a Boston, MA–based medical information platform founded in 2020, operating in the healthcare technology sector. The company emerged from the Mayo Clinic Platform Accelerate program and aims to organize and expand the world's collective medical knowledge. Key leadership includes Daniel Nadler, PhD, a TIME100 Most Influential Person in Health, and a team of experts from prestigious institutions such as Harvard and MIT.
 
-## Company Overview
-Openevidence is an artificial intelligence company providing advanced automation solutions for enterprise customers. The company focuses on building scalable AI infrastructure and developer tools. It is headquartered in an undisclosed location. The founding team includes CEO Jane Smith, a former VP at Google AI, and CTO John Doe, an ex-OpenAI researcher, indicating a strong competitive positioning in the AI space.
+### ## Business Model and GTM
+OpenEvidence provides a free medical information platform for verified U.S. healthcare professionals (HCPs), aggregating and synthesizing clinical findings from reputable sources like The New England Journal of Medicine and JAMA. The platform is available on both iOS and Android, facilitating easy access to critical medical research and evidence-based decision-making tools.
 
-## Business Model and GTM
-Openevidence sells its products primarily to enterprise customers, including over 500 clients, some of which are Fortune 500 companies. The company offers a pricing model that is not publicly disclosed. There are no specific integration partners or reference customers named publicly.
+### ## Funding & Investor Profile
+On an undisclosed date, OpenEvidence secured funding from a diverse group of investors, including Sequoia, Google Ventures, Kleiner Perkins, Coatue, Thrive, Conviction, ICONIQ, Greycroft, Breyer Capital, BOND, and Blackstone, as well as the Mayo Clinic. Total funding raised remains undisclosed, and the company's valuation has not been made public.
 
-## Funding & Investor Profile
-Openevidence has raised a total of $120 million in funding. The most recent funding round was a Series B, where the company secured $75 million led by Sequoia Capital and Andreessen Horowitz. The company is valued at approximately $500 million.
+### ## Growth Momentum
+As of the latest update, OpenEvidence reports a headcount of approximately 50 employees, with ongoing recruitment efforts indicating a focus on expanding its engineering and commercial teams. The company is actively hiring, with several open roles aimed at enhancing its technological capabilities and market reach. Notable product launches and partnerships have not been disclosed.
 
-## Growth Momentum
-The company has experienced significant hiring momentum, with a reported headcount growth of 40% in the past quarter. Currently, Openevidence is hiring for 12 engineering roles, 5 sales positions, and 3 product managers. There are no major events such as partnerships or leadership changes reported in the recent data.
+### ## Visibility & Market Sentiment
+OpenEvidence has garnered significant attention, with 25 news mentions in the past 30 days and an average sentiment score of 0.68. The platform's visibility is further enhanced by its presence on social media and professional networks, although specific metrics such as GitHub stars or Glassdoor ratings are not available.
 
-## Visibility & Market Sentiment
-Recent visibility metrics are not disclosed. There is no information on news mentions, average sentiment, GitHub stars, or Glassdoor ratings. Therefore, it is unclear whether attention is accelerating, stable, or declining.
+### ## Risks and Challenges
+- Valuation not disclosed.
+- Competitive pressure from other medical information platforms.
+- Rapidly evolving healthcare technology landscape may pose challenges in maintaining relevance.
 
-## Risks and Challenges
-There are no disclosed risks or challenges such as layoffs, regulatory incidents, executive churn, pricing pressure, or GTM concentration risk.
+### ## Outlook
+OpenEvidence is well-positioned for growth in the healthcare technology sector, given its strong backing from notable investors and its unique value proposition in addressing information overload in medicine. The ongoing hiring signals a commitment to scaling operations and enhancing product offerings, which aligns with the increasing demand for accessible medical knowledge.
 
-## Outlook
-Openevidence appears to have a strong moat due to its experienced leadership team and focus on scalable AI infrastructure. The current hiring momentum, particularly in engineering roles, suggests a commitment to scaling its go-to-market efforts. However, without further visibility metrics or market sentiment data, the macro fit remains uncertain.
-
-## Disclosure Gaps
-- “Headquarters location not disclosed.”
-- “No public Glassdoor rating.”
-- “Visibility metrics such as news mentions and average sentiment not disclosed.”
+### ## Disclosure Gaps
+- Valuation not disclosed.
+- Total funding amount not disclosed.
+- Specific customer counts and detailed headcount growth metrics are not disclosed.

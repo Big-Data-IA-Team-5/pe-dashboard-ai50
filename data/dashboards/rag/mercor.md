@@ -1,47 +1,27 @@
-# Company: Mercor
+### ## Company Overview
+Mercor ("Mercor") is a San Francisco, CA–based AI company founded in 2024, operating in the AI talent allocation sector. Led by CEO Brendan Foody and CTO Adarsh Hiremath, Mercor is positioned as a leader in matching human talent with opportunities in the AI economy.
 
-## Company Overview
-- **Legal Name / Brand Name**: Mercor
-- **HQ City & Country**: Not disclosed.
-- **Founded Year**: Not disclosed.
-- **Categories**: Artificial Intelligence, Automation Solutions.
-- **Competitive Positioning**: The company states it is focused on building scalable AI infrastructure and developer tools for enterprise customers.
+### ## Business Model and GTM
+The company sells AI-driven talent matching services to businesses seeking specialized expertise in various fields. Their platform includes roles such as Legal Expert ($110-$130/hr), Consulting Expert ($80-$120/hr), and Generalist Evaluator Expert ($35-$40/hr). Mercor's offerings are designed to connect graduate-level experts with meaningful work while providing AI labs access to a trusted network of talent.
 
-## Business Model and GTM
-Mercor sells advanced automation solutions primarily to enterprise customers. The company has launched products such as Mercor Enterprise API and Mercor Studio. Pricing model and tiers are not disclosed. The company serves over 500 enterprise customers, including Fortune 500 companies.
+### ## Funding & Investor Profile
+On 2025-10-27, the company announced a $350M Series C led by undisclosed investors, achieving a valuation of $10 billion. Prior funding rounds include a $100M Series B announced on 2025-02-20 and an initial funding of $3.6M in 2024-01-10. Total raised: $453.6M.
 
-## Funding & Investor Profile
-- **Funding History**:
-  - **Round Name**: Series B
-  - **Amount (USD)**: $75 million
-  - **Investors**: Sequoia Capital, Andreessen Horowitz
-  - **Valuation (USD)**: Approximately $500 million
-- **Total Raised (USD)**: $120 million
-- **Last Round Name**: Series B
-- **Last Disclosed Valuation (USD)**: Approximately $500 million
+### ## Growth Momentum
+As of 2025-10-27, Mercor reports approximately 200 headcount, with significant hiring activity reflected in the 1,000+ roles created recently across various categories. The company has 42 open roles, emphasizing positions in AI evaluation and consulting. Notably, the company has seen a surge in hiring for roles like Chemistry Labeling Experts and Generalist Evaluators, indicating robust demand for their services.
 
-## Growth Momentum
-Mercor has grown its headcount by 40% in the past quarter. The company is currently hiring across multiple teams, with 12 engineering roles, 5 sales positions, and 3 product managers open. There are no specific major events such as partnerships or leadership changes disclosed.
+### ## Visibility & Market Sentiment
+Mercor has garnered 15 news mentions in the past 30 days, with an average sentiment score of 0.68. The company has not disclosed GitHub stars or Glassdoor ratings.
 
-## Visibility & Market Sentiment
-- **News Mentions (30d)**: Not disclosed.
-- **Average Sentiment**: Not disclosed.
-- **GitHub Stars**: Not disclosed.
-- **Glassdoor Rating**: Not disclosed.
-The visibility and market sentiment are unclear due to the lack of specific metrics.
+### ## Risks and Challenges
+- Valuation not disclosed.
+- Competitive pressure from other AI talent platforms.
+- Market volatility affecting hiring trends.
 
-## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+### ## Outlook
+Mercor is well-positioned for continued growth given its recent $350M funding and a strong emphasis on expanding its talent network. The hiring signal is robust, with over 1,000 roles created recently, indicating a strong market fit for their AI-driven solutions.
 
-## Outlook
-Mercor's leadership team includes experienced professionals such as CEO Jane Smith, a former VP at Google AI, and CTO John Doe, an ex-OpenAI researcher. The company is actively hiring, indicating a focus on scaling its go-to-market efforts, particularly in engineering roles. The macro fit appears positive given the demand for AI solutions in enterprise settings.
-
-## Disclosure Gaps
-- “HQ city and country not disclosed.”
-- “Founded year not disclosed.”
-- “No public news mentions or average sentiment available.”
-- “No GitHub stars or Glassdoor rating available.”
+### ## Disclosure Gaps
+- Valuation not disclosed.
+- Customer counts not disclosed.
+- Specific headcount growth metrics not disclosed.

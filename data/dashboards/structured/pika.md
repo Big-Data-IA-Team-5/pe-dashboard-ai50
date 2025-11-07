@@ -1,50 +1,29 @@
-# Pika Investor Dashboard
-
 ## Company Overview
-- **Legal Name**: Pika
-- **HQ**: Palo Alto, California, USA
-- **Founded**: 2023
-- **Categories**: AI
-- **Competitive Positioning**: Not disclosed.
+Pika is a Palo Alto, CA–based technology company founded in 2023. The company operates in the innovative realm of digital effects, specifically focusing on altering reality through video effects. Currently, there are no disclosed competitors or related companies, and no leadership team information is available.
 
 ## Business Model and GTM
-Pika sells to consumers looking to enhance their video creation experience. They offer a product called **Pikapocalypse Effects**, which is a suite of video effects designed to make video creation more engaging and fun. The pricing model is **not disclosed**, and there are no publicly named integration partners or reference customers.
+Pika sells its flagship product, Pikapocaylpse Pikaffects, which allows users to change reality through video effects. The pricing model for this product has not been disclosed, nor are there any known integration partners or reference customers at this time.
 
 ## Funding & Investor Profile
-Pika has raised a total of **$215 million** across two funding events:
-1. **Funding Round** on **November 5, 2025**: 
-   - Amount: **$80 million**
-   - Investors: Spark Capital
-   - Valuation: Not disclosed.
-   
-2. **Funding Round** on **November 5, 2025**: 
-   - Amount: **$135 million**
-   - Investors: Not disclosed.
-   - Valuation: Not disclosed.
-
-- **Total Raised**: Not disclosed.
-- **Last Round Name**: Not disclosed.
-- **Last Disclosed Valuation**: Not disclosed.
+On November 7, 2025, Pika announced an $80M funding round led by a diverse group of investors including Spark Capital, Greycroft, Lightspeed, Neo, and Makers Fund, along with notable individuals such as Jared Leto, Craig Kallman, Nat Friedman, Daniel Gross, Elad Gil, Adam D'Angelo, Mike Vernal, Karim Atiyeh, Aaron Levie, Andrej Karpathy, Aravind Srinivas, Clem Delangue, Alex Chung, Mateusz Staniszewski, Conviction, and SV Angel. The total amount raised to date remains undisclosed, as does the company's valuation.
 
 ## Growth Momentum
-As of **November 5, 2025**, Pika has a total headcount of **13** employees. The headcount growth percentage is **not disclosed**. There are no specific job openings reported for engineering or sales roles. There are no notable events such as partnerships or product releases mentioned.
+As of November 7, 2025, Pika does not report any headcount, growth rate, or open roles, as there is no available data on job listings or hiring trends. The company has not disclosed any recent product launches or partnerships.
 
 ## Visibility & Market Sentiment
-There are currently no visibility metrics available for Pika, including news mentions or sentiment analysis.
+Currently, there are no visibility metrics available for Pika, including news mentions, sentiment scores, GitHub stars, or Glassdoor ratings.
 
 ## Risks and Challenges
-- **Layoffs**: Not disclosed.
-- **Regulatory / Security Incidents**: Not disclosed.
-- **Exec Churn**: Not disclosed.
-- **Pricing Pressure / Commoditization**: Not disclosed.
-- **GTM Concentration Risk**: Not disclosed.
+- Valuation not disclosed.
+- Competitive pressure from undisclosed competitors.
+- Lack of visibility metrics may hinder market perception.
 
 ## Outlook
-Pika is positioned in the AI space with a focus on video effects, which could provide a data advantage if they can leverage user-generated content effectively. The current headcount suggests a small team, and there are no disclosed job openings in engineering or sales, which may indicate limited immediate growth capacity. The macro fit in the AI and video creation market appears promising, but further clarity on their business model and customer acquisition strategy would be beneficial.
+Pika is well-positioned for growth in the digital effects market given its innovative product, Pikapocaylpse Pikaffects, which taps into the growing demand for augmented reality experiences. However, the absence of a leadership team and visibility metrics presents challenges in establishing market credibility and attracting further investment.
 
 ## Disclosure Gaps
-- “Total raised not disclosed.”
-- “Last round name not disclosed.”
-- “Last disclosed valuation not disclosed.”
-- “Headcount growth percentage not disclosed.”
-- “No public visibility metrics available.”
+- Valuation not disclosed.
+- Total raised amount not disclosed.
+- Customer counts not disclosed.
+- Headcount growth and job openings not disclosed.
+- Leadership team information not available.
